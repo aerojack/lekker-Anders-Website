@@ -1,0 +1,647 @@
+
+*{
+	margin: 0;
+	padding: 0;
+
+}
+
+html, body{
+
+	height:100%;
+
+}
+
+body {
+
+	background-attachment: fixed;
+	background-position: center;
+
+	/* scroll remove */
+	overflow:hidden;
+	background:#464745;
+
+}
+
+/*---------------- Navbar ----------------*/
+nav
+{
+
+	position: fixed;
+/*	border-radius: 400; */
+	height: 100vh;
+	background: rgb(132, 189,0,0);
+	opacity: 1;
+/*	position: sticky; */
+    top: 0;
+
+	width:55px;
+
+}
+nav ul /* navagatie bar */
+{
+/*     background: linear-gradient(90deg,
+     rgba(170, 170, 170, 0.6) 0%,
+     rgba(170, 170, 170, 0.6) 25%,
+     rgba(170, 170, 170, 0.2) 75%,
+     rgba(170, 170, 170, 0.2) 100%);
+    box-shadow: 0 0 25px rgba(0, 0, 0, 0.1),
+     inset 0 0 1px rgba(255, 255, 255, 0.6); */
+
+	padding-top: 120%;
+
+}
+nav ul li /* navagatie bar */
+{
+    display: /*inline-*/block;
+
+
+
+}
+
+nav ul li a /* Tekst navagatie bar */
+
+{
+    padding: 10px;
+    color: white;
+    font-size: 18px;
+    font-family: arial, helvetica, sans-serif;
+    text-decoration: none;
+    display: block;
+
+
+
+ }
+
+ nav ul li a:active {
+ 	background-color: #354a04;
+ }
+ nav ul li a.highlite {
+ 	background-color: #354a04;}
+
+.navbaricon{
+	font-size: 33px;
+}
+
+
+
+.navbarlogo{
+
+	margin-left:0px;
+	font-size:30px;
+	color:white;
+}
+.navbarlogo:hover{
+
+	margin-left:0px;
+	font-size:30px;
+	color:#d2f095;
+}
+
+/*^^^^^^^^^^^^^^^^ Navbar ^^^^^^^^^^^^^^^^*/
+
+/*---------------- Grid wireframe mobiel ----------------*/
+.grid {
+	display: grid;
+	grid-template-columns: 100vw 100vw 100vw;
+	grid-template-rows: 100vh 100vh 100vh 100vh;
+	grid-template-areas:
+	"barista pagina2 koks"
+	"pagina4 home pagina6"
+	"onsaanbod pagina8 overons"
+	"pagina10 contact pagina12";
+/* 	grid-gap: 10px; */
+
+}
+
+/*---------------- Grid home page ----------------*/
+.home{
+	grid-area:home;
+
+/* 	font-size:40px;
+	padding-left:300px;
+	background-color:white; */
+}
+
+.grid-home div:nth-child(even){
+/* 	background-color:red; */
+	background:#464745;
+}
+
+.grid-home div:nth-child(odd){
+/* 	background-color:green; */
+	background:#464745;
+}
+
+.grid-home {
+	display: grid;
+	grid-template-columns: 30vw 40vw 30vw;
+	grid-template-rows: 25vh 65vh 10vh;
+	grid-template-areas:
+	"section1 section2 section3"
+	"section4 section4 section4"
+	"section5 section6 section7"
+
+/* 	grid-gap: 10px; */
+
+}
+
+.section1{ /* 	top left */
+	grid-area:section1;
+}
+.section2{ /* 	top center */
+	grid-area:section2;
+	text-align:center;
+}
+.section3{ /* 	top right */
+	grid-area:section3;
+}
+.section4{ /* 	center */
+	grid-area:section4;
+
+}
+.section5{ /* 	bottom left */
+	grid-area:section5;
+}
+.section6{ /* 	bottom center */
+	grid-area:section6;
+	text-align:center;
+}
+.section7{ /* 	bottom right */
+	grid-area:section7;
+
+}
+#section7 img{
+margin-top: -20%;
+padding-top: -5%;
+padding-right: -5%;
+border-radius: 50%;
+border: solid black;
+
+}
+
+
+
+.downbuttononder{
+
+	margin-left:14px;
+	font-size:60px;
+}
+.downbutton{
+	color:#abf15f;
+	}
+
+.downbutton:hover{
+	color:#354a04;
+}
+
+/*^^^^^^^^^^^^^^^^ Grid home page ^^^^^^^^^^^^^^^^*/
+
+
+.barista{
+	grid-area:barista;
+
+	display: grid;
+	grid-template-columns: 20vw 60vw 20vw ;
+	grid-template-rows: 25vh 75vh;
+	grid-template-areas:
+	"section1b section2b section3b"
+	"section4b section5b section6b"
+
+	/* 	grid-gap: 10px; */
+}
+
+
+
+.section1b{
+
+
+}
+
+.section2b{
+text-align: center;
+}
+
+.section5b{
+
+	padding-top: 5%;
+	text-align: center;
+	background-color: RGB(171,241,95);
+	border-radius: 25%;
+	height:90%;
+	border: 10px;
+
+
+}
+
+#section5b img{
+
+	padding-top: 1%;
+	padding-right: 1%;
+	border-radius: 25%;
+	border: solid black;
+
+}
+#section5b h3{
+	padding-top: 2%;
+
+}
+#section5b p{
+
+	padding-top: 2%;
+	padding-bottom: 2%;
+	padding-left: 2%;
+	padding-right: 2%;
+	/*border-color: RGB(210,240,149);*/
+	border-radius: 25%;
+	/*overflow: scroll;*/
+
+}
+
+
+.section6b{
+  width: 75%;
+	height: 550%;
+/* 	padding-top: 2%;
+	margin-top: 5%; */
+	margin-left: 5%;
+
+
+}
+
+.section6b img{
+
+	padding-top: 1%;
+	padding-right: 1%;
+	border-radius: 25%;
+	border: solid black;
+
+
+}
+/*.randjeb{
+	border: 3px solid #354a04;
+    border-radius: 25%;
+		margin-top: -%;
+	margin-right: -25%;
+	margin-left: -25%;
+}*/
+
+
+
+/*--------------------kokspaginagrid------------------*/
+.kokspaginagrid{
+
+	display: grid;
+	grid-template-columns: 50vw 50vw ;
+	grid-template-rows: 100vh 100vh ;
+	grid-template-areas:
+	"section1koks section2koks"
+	"section3koks section4koks"
+
+
+	/* 	grid-gap: 10px; */
+}
+
+.section1koks{
+	grid-area:section1koks;
+
+	font-family: Gabriela, sans-serif;
+	color: #000000;
+	text-align: center;
+	background-color: #abf15f;
+	border: 3px solid;
+	border-color: #354a04;
+	border-radius: 25%;
+	margin-left: 8%;
+	margin-top: 2%;
+	margin-bottom:2%;
+
+}
+.section2koks{
+	grid-area:section2koks;
+
+	font-family: Gabriela, sans-serif;
+	color: #000000;
+	text-align: center;
+	background-color: #abf15f;
+	border: 3px solid;
+	border-color: #354a04;
+	border-radius: 25%;
+	margin-right: 8%;
+	margin-top: 2%;
+	margin-bottom:2%;
+}
+.section3koks{
+	grid-area:section3koks;
+
+	font-family: Gabriela, sans-serif;
+	color: #000000;
+	text-align: center;
+	background-color: #abf15f;
+	border: 3px solid;
+	border-color: #354a04;
+	border-radius: 25%;
+	margin-left: 8%;
+	margin-top: 2%;
+	margin-bottom:2%;
+
+}
+.section4koks{
+	grid-area:section4koks;
+
+	font-family: Gabriela, sans-serif;
+	color: #000000;
+	text-align: center;
+	background-color: #abf15f;
+	border: 3px solid;
+	border-color: #354a04;
+	border-radius: 25%;
+	margin-right: 8%;
+	margin-top: 2%;
+	margin-bottom:2%;
+
+}
+
+
+/*^^^^^^^^^^^^^^^^ kokspaginagrid ^^^^^^^^^^^^^^^^*/
+
+
+/*--------------------onsaanbodgrid------------------*/
+.onsaanbodgrid{
+	grid-area:barista;
+
+	display: grid;
+	grid-template-columns: 20vw 60vw 20vw ;
+	grid-template-rows: 25vh 75vh;
+	grid-template-areas:
+	"section1onsaanbod section2onsaanbod section3onsaanbod"
+	"section4onsaanbod section5onsaanbod section6onsaanbod"
+
+	/* 	grid-gap: 10px; */
+}
+
+.section1onsaanbod{
+	grid-area:section1onsaanbod;
+}
+.section2onsaanbod{
+	grid-area:section2onsaanbod;
+	text-align: center;
+}
+.section3onsaanbod{
+	grid-area:section3onsaanbod;
+}
+
+.section4onsaanbod{
+	grid-area:section4onsaanbod;
+}
+
+.section5onsaanbod{
+	grid-area:section5onsaanbod;
+	background-color: #abf15f;
+	height: 100%;
+	border-radius: 25%;
+	text-align: center;
+
+}
+
+.section6onsaanbod{
+	grid-area:section6onsaanbod;
+	margin-left: 5%;
+}
+
+.section6onsaanbod img {
+    padding-top: 1%;
+    padding-right: 1%;
+    border-radius: 25%;
+    border: solid black;
+}
+
+/*^^^^^^^^^^^^^^^^ onsaanbodgrid ^^^^^^^^^^^^^^^^*/
+
+
+
+
+/*--------------------overonsgrid------------------*/
+.overonsgrid{
+	grid-area:barista;
+
+	display: grid;
+	grid-template-columns: 20vw 60vw 20vw ;
+	grid-template-rows: 25vh 75vh;
+	grid-template-areas:
+	"section1overons section2overons section3overons"
+	"section4overons section5overons section6overons"
+
+	/* 	grid-gap: 10px; */
+}
+
+.section1overons{
+	grid-area:section1overons;
+}
+.section2overons{
+	grid-area:section3overons;
+}
+.section3overons{
+	grid-area:section3overons;
+}
+
+.section4overons{
+	grid-area:section4overons;
+}
+
+.section5overons{
+	grid-area:section5overons;
+	padding-top: 5%;
+	text-align: center;
+	background-color: RGB(171,241,95);
+	border-radius: 25%;
+	height:55%;
+	border: 10px;
+}
+
+.section6overons{
+	grid-area:section6overons;
+}
+
+/*^^^^^^^^^^^^^^^^ onsaanbodgrid ^^^^^^^^^^^^^^^^*/
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------cooks------------------*/
+.koks{
+	grid-area:koks;
+	overflow-y:scroll;
+	overflow-x:hidden;
+
+
+}
+/*------------------onsaanbod---------------------*/
+.onsaanbod{
+	grid-area:onsaanbod;
+
+
+
+
+}
+/*------------------about us-----------------*/
+.overons{
+	grid-area:overons;
+
+
+
+}
+/*------------------contact-------------------*/
+
+.grid-contact {
+	display: grid;
+	grid-template-columns: 50vw 50vw;
+	grid-template-rows: 100vh 100vh;
+	grid-template-areas:
+
+	"sectioncontact1 sectioncontact2"
+
+
+/* 	grid-gap: 10px; */
+
+}
+
+.sectioncontact1{ /* 	top left */
+	grid-area:sectioncontact1;
+	padding-left: 15%;
+	padding-right:5%;
+}
+.sectioncontact2{ /* 	top center */
+	grid-area:sectioncontact2;
+	padding-left: 5%;
+	padding-right:10%;
+}
+
+
+.contact{
+	grid-area:contact;
+	text-align: center;
+}
+
+.form{
+	background-color:#abf15f;
+}
+
+
+
+input[type=text], textarea {
+    width: 100%;
+    padding: 12px;
+    border: 0px solid #354a04;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+	resize: vertical
+}
+
+input[type=submit] {
+    background-color: #1b3535;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+	font-size: 18px;
+}
+
+input[type=submit]:hover {
+    background-color: #1b3535;
+	color:#8be5dc;
+}
+
+.container {
+    border-radius: 10px;
+	 background:#abf15f;
+	padding-left: 20%;
+	padding-right: 20%;
+	margin-top: 5%;
+	min-height: 90vh;
+
+}
+
+.randje{
+	border: 3px solid #354a04;
+    border-radius: 10px;
+	margin-right: -25%;
+	margin-left: -25%;
+	min-height: 80vh;
+}
+
+
+.contactveld{
+	width: 80%;
+	margin-left: 9%;
+}
+
+
+
+
+/*^^^^^^^^^^^^^^^^ Grid wireframe ^^^^^^^^^^^^^^^^*/
+
+
+
+
+
+
+/*---------------- Grid wireframe desktop ----------------*/
+
+@media screen and (min-width: 736px)
+{
+	.grid {
+	display: grid;
+	grid-template-columns: 100vw 100vw 100vw;
+	grid-template-rows: 100vh 100vh 100vh 100vh;
+	grid-template-areas:
+	"barista pagina2 koks"
+	"pagina4 home pagina6"
+	"onsaanbod pagina8 overons"
+	"pagina10 contact pagina12"
+ ;
+
+}
+}
+
+
+
+
+/*^^^^^^^^^^^^^^^^ Grid wireframe desktop ^^^^^^^^^^^^^^^^*/
+
+
+
+/*^^^^^^^^^^^^^^^^^^ social buttens^^^^^^^^^^^^^^^^*/
+
+#social {
+position: fixed;
+top: 0px;
+right: 1%;
+width: 50px;
+padding: 12px 0px;
+text-align: center;
+transition:  linear 0s;
+ }
+
+#social > button{ display:block; background-color:transparent; background-image:url(share_icon.png); width:36px; height:36px; border:none; cursor:pointer; margin:4px auto; opacity:0.6; transition:  linear 0s; }
+#social > button:nth-child(1){background-position:0px;}
+#social > button:nth-child(2){background-position:-36px;}
+#social > button:nth-child(3){background-position:-72px;}
+#social > button:nth-child(4){background-position:-252px;}
+
+
+}
+
+
+
+ /*^^^^^^^^^^^^^^^^ social buttens end ^^^^^^^^^^^^^^^^^^^^^*/
+/* test */
