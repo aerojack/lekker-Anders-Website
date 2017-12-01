@@ -11,7 +11,8 @@
 	<title>Lekker Anderz</title>
 	<meta charset="utf-8">
 
-
+  <link rel="stylescheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylescheet" href="https://fonts.googleapis.com/css?family=Gabriela">
 
 <!-- javascript-->
 
@@ -271,7 +272,7 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 	<div id="overons" class="overons">
 		<div class="overonsgrid">
 			<div class="section1overons">
-			
+
 			</div>
 			<div class="section2overons">
 
