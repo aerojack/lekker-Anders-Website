@@ -96,7 +96,7 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 
 
 
-	<div id="pagina2" class="pagina2">pagina2</div>
+	<div id="pagina2" class="pagina2"></div>
 
 	<div id="koks" class="koks">
 		<div class="kokspaginagrid">
@@ -154,7 +154,7 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 
 
 	<!-------------- second row -------------->
-	<div id="pagina4" class="pagina4">pagina4</div>
+	<div id="pagina4" class="pagina4"></div>
 	<div id="home" class="home">
 
 	<div class="grid-home">
@@ -196,7 +196,7 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 	</div>
 
 </div>
-	<div id="pagina6" class="pagina6">pagina6</div>
+	<div id="pagina6" class="pagina6"></div>
 	<!-------------- third row -------------->
 	<div id="onsaanbod" class="onsaanbod">
 		<div class="onsaanbodgrid">
@@ -267,11 +267,11 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 
 
 
-	<div id="pagina8" class="pagina8">pagina8</div>
+	<div id="pagina8" class="pagina8"></div>
 	<div id="overons" class="overons">
 		<div class="overonsgrid">
 			<div class="section1overons">
-			overons
+			
 			</div>
 			<div class="section2overons">
 
@@ -309,7 +309,7 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 	</div>
 
 	<!-------------- fourth row -------------->
-	<div id="pagina10" class="pagina10">pagina10</div>
+	<div id="pagina10" class="pagina10"></div>
 
 <!------------------------------------reservering------------------------------------>
 	<div id="contact" class="contact">
@@ -418,7 +418,7 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 
 
 
-	<div id="pagina12" class="pagina12">pagina12</div>
+	<div id="pagina12" class="pagina12"></div>
 
 
 
