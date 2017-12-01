@@ -65,16 +65,16 @@
 <!------------------------------------Section5------------------------------------>
 <div id="section5b" class="section5b">
   <img src= "images/Barista1.png"style="width: 90%; height auto; float: center; ">
-	<h3> Onze Barista’s & ons High Tea arrangement</h3>
+	<h3> Onze Barista’s & ons High Tea arrangement</h3><br>
 
-<p>Bij ons kunt u terecht voor een goede bak koffie en een vers kopje thee.<br>
+<p>Bij ons kunt u terecht voor een goede bak koffie en een vers kopje thee.</p>
 
 <p>Omdat koffie zo' n lekker product is hebben we een breed aanbod.<br>
 Bij Lekker en Anders  staan ervaren Baristas achter de toog.<br>
-Zij draaien hun hand niet om voor uw Espresso, Capuccino, Latte of Mocha.</p>
-<p>Ook voor uw thee genoegens hebben we een fantastisch aanbod.<br>
-Kom langs om een aantal varianten te proeven.</p>
-<p>U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned High Tea arrangement. </p>
+Zij draaien hun hand niet om voor uw Espresso, Capuccino, Latte of Mocha.<br>
+Ook voor uw thee genoegens hebben we een fantastisch aanbod.<br>
+Kom langs om een aantal varianten te proeven.<br>
+U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned High Tea arrangement. </p>
 
 
 	<div class="randjeb">
@@ -214,11 +214,11 @@ Kom langs om een aantal varianten te proeven.</p>
 			</div>
 			<div class="section5onsaanbod">
 <h3>Ontbijt</h3>
-				<br>
+
 				<p>Kom bij Lekker en Anders ontbijten of neem uw ontbijt mee voor onderweg.<br>
 				Wij verzorgen voor u een compleet ontbijt.</p>
 <br>
-<h3>Lunch</h3> <br>
+<h3>Lunch</h3>
 			<p>
 			Lunch betekent bij ons dat u kunt kiezen uit een hoeveelheid aan gerechten.<br>
 			Heerlijk belegde broodjes, mooie salades, soep of een broodje uitsmijter.<br>
@@ -226,7 +226,7 @@ Kom langs om een aantal varianten te proeven.</p>
 			Daarnaast bieden we elke dag van de week iets speciaals aan.<br>
 			</p>
 <br>
-			<h3>Onze lunch specials:</h3> <br>
+			<h3>Onze lunch specials:</h3>
 <p>
 			Maandag: Mediterrane lunchgerechten.<br>
 			Dinsdag: Er staan een paar heerlijke speciaal-soepen op het menu.<br>
@@ -237,7 +237,7 @@ Kom langs om een aantal varianten te proeven.</p>
 			Zondag: Saladebar en visschotels, broodjes en een fijn glaasje wijn.
 			</p>
 <br>
-			<h3>Het aanschuifrestaurant</h3><br>
+			<h3>Het aanschuifrestaurant</h3>
 <p>Elke donderdag-, vrijdag-, zaterdag-, of zondagavond is er een andere kok voor u aan het werk.<br>
 	  De ene keer is dat een gerenommeerde koks of cateraar, de andere keer een getalenteerde beginner.</p>
 <br>
