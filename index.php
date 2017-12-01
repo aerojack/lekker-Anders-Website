@@ -11,7 +11,8 @@
 	<title>Lekker Anders</title>
 	<meta charset="utf-8">
 
-
+  <link rel="stylescheet" href="https://fonts.googleapis.com/css?family=Roboto">
+  <link rel="stylescheet" href="https://fonts.googleapis.com/css?family=Gabriela">
 
 <!-- javascript-->
 

@@ -644,4 +644,24 @@ transition:  linear 0s;
 
 
  /*^^^^^^^^^^^^^^^^ social buttens end ^^^^^^^^^^^^^^^^^^^^^*/
-/* test */
+/*---------------- typography ----------------*/
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Gabriela');
+
+p{
+	  font-family: 'Gabriela',serif;
+}
+.p1{
+	  font-family: 'Gabriela',serif;
+}
+h1{
+	font-family: 'Roboto',serif;
+  }
+h2{
+	font-family: 'Roboto',serif;
+}
+h3{
+	font-family: 'Roboto',serif;
+}
+
+/*^^^^^^^^^^^^^^^^^^ typography^^^^^^^^^^^^^^^^*/
