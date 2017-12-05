@@ -54,7 +54,7 @@ smoothPageScroll_Scroll = function (exports) {
       var _ref$easing = _ref.easing;
       var easing = _ref$easing === undefined ? 'easeOutQuart' : _ref$easing;
       var _ref$speed = _ref.speed;
-      var speed = _ref$speed === undefined ? 2000 : _ref$speed;   /*--------------- scroll speed ---------------*/
+      var speed = _ref$speed === undefined ? 4000 : _ref$speed;   /*--------------- scroll speed ---------------*/
       var _ref$delay = _ref.delay;
       var delay = _ref$delay === undefined ? 0 : _ref$delay;
       var _ref$isAddHash = _ref.isAddHash;

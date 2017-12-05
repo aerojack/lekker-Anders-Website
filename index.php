@@ -8,7 +8,8 @@
 <head>
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<title>Lekker Anderz</title>
+  <link rel="icon" href="images/logo.png">
+	<title>Lekker Anders</title>
 	<meta charset="utf-8">
 
   <link rel="stylescheet" href="https://fonts.googleapis.com/css?family=Roboto">
@@ -22,6 +23,7 @@
 	<script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
 	<script type="text/javascript" src="rotateAnimation.js"></script>
 	<script type="text/javascript" src="first page.js"></script>
+  <script type="text/javascript" src="sublogo.js"></script>
 
 
 <!-- CSS -->
@@ -160,13 +162,23 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 
 	<div class="grid-home">
 <!------------------------------------Section 1------------------------------------>
-		<div id="section1" class="section1"></div>
+
+		<div id="section1" class="section1">
+      <div id="axis" class="one">
+
+        <img class="object van" id="object" src="images/sublogo cg.png" />
+
+    </div>
+
+    </div>
+
 <!------------------------------------Section 2------------------------------------>
 		<div id="section2" class="section2">
 			<img src="images/logo.png" alt="Logo" style="width: 250px; height: auto; max-width: 70%; float: center;"> <br>
 		<!--	<img id="logopijl" src="images/logopijl.png" alt="Logo pijl" style="width: 80px; height: auto; max-width: 25%; float: none; margin-left: 60%;
 						margin-top: -8%;">
 			<script>rotateAnimation("logopijl",30);</script> -->
+
 		</div>
 
 <!------------------------------------Section 3------------------------------------>
@@ -192,7 +204,21 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 <!------------------------------------Section 6------------------------------------>
 		<div id="section6" class="section6"></div>
 <!------------------------------------Section 7------------------------------------>
-		<div id="section7" class="section7"></div>
+		<div id="section7" class="section7">
+      <div id="calendar">
+          <p id="calendar-dag"></p>
+          <p id="calendar-datum"></p>
+          <p id="calendar-month-year"></p>
+      </div>
+
+      <div class="event" id="event">
+        <?php
+
+      //    echo ($result);
+         ?>
+
+      </div>
+    </div>
 
 	</div>
 
@@ -424,9 +450,10 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 
 
 	</div>
+</div>
+</div>
 
-
-
+<script type="text/javascript" src="calendar.js"></script>
 
 <script src="jquery.js"></script>
 <script src="jquery.easing.1.3.min.js"></script>
@@ -435,5 +462,7 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 
 <script type="text/javascript" src="carousel.js"></script>
 <script type="text/javascript" src="navbar highlight.js"></script>
+
+
 </body>
 </html>
