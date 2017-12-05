@@ -293,74 +293,88 @@ text-align: center;
 .kokspaginagrid{
 
 	display: grid;
-	grid-template-columns: 50vw 50vw ;
-	grid-template-rows: 100vh 100vh ;
+	grid-template-columns: 17vw 17vw 17vw 17vw 16vw 16vw ;
+	grid-template-rows: 25vh 25vh 25vh 25vh ;
 	grid-template-areas:
-	"section1koks section2koks"
-	"section3koks section4koks"
-
+	"a b c d e f"
+	"g h i j k l"
+	"m n o p q r"
+	"s t u v w x";
 
 	/* 	grid-gap: 10px; */
 }
 
 .section1koks{
-	grid-area:section1koks;
-
-	font-family: Gabriela, sans-serif;
-	color: #000000;
-	text-align: center;
-	background-color: #abf15f;
-	border: 3px solid;
-	border-color: #354a04;
-	border-radius: 25%;
-	margin-left: 8%;
-	margin-top: 2%;
-	margin-bottom:2%;
-
+	grid-area:a;
 }
 .section2koks{
-	grid-area:section2koks;
-
-	font-family: Gabriela, sans-serif;
-	color: #000000;
-	text-align: center;
-	background-color: #abf15f;
-	border: 3px solid;
-	border-color: #354a04;
-	border-radius: 25%;
-	margin-right: 8%;
-	margin-top: 2%;
-	margin-bottom:2%;
+	grid-area:b;
 }
 .section3koks{
-	grid-area:section3koks;
-
-	font-family: Gabriela, sans-serif;
-	color: #000000;
-	text-align: center;
-	background-color: #abf15f;
-	border: 3px solid;
-	border-color: #354a04;
-	border-radius: 25%;
-	margin-left: 8%;
-	margin-top: 2%;
-	margin-bottom:2%;
-
+	grid-area:c;
 }
 .section4koks{
-	grid-area:section4koks;
-
-	font-family: Gabriela, sans-serif;
-	color: #000000;
-	text-align: center;
-	background-color: #abf15f;
-	border: 3px solid;
-	border-color: #354a04;
-	border-radius: 25%;
-	margin-right: 8%;
-	margin-top: 2%;
-	margin-bottom:2%;
-
+	grid-area:d;
+}
+.section5koks{
+	grid-area:e;
+}
+.section6koks{
+	grid-area:f;
+}
+.section7koks{
+	grid-area:g;
+}
+.section8koks{
+	grid-area:h;
+}
+.section9koks{
+	grid-area:i;
+}
+.section10koks{
+	grid-area:j;
+}
+.section11koks{
+	grid-area:k;
+}
+.section12koks{
+	grid-area:l;
+}
+.section13koks{
+	grid-area:m;
+}
+.section14koks{
+	grid-area:n;
+}
+.section15koks{
+	grid-area:o;
+}
+.section16koks{
+	grid-area:p;
+}
+.section17koks{
+	grid-area:q;
+}
+.section18koks{
+	grid-area:r;
+}
+.section19koks{
+	grid-area:s;
+}
+.section20koks{
+	grid-area:t;
+}
+.section21koks{
+	grid-area:u;
+}
+.section22koks{
+	grid-area:v;
+}
+.section23koks{
+	grid-area:w;
+}
+.section24koks{
+	grid-area:x;
 }
 
 
@@ -479,8 +493,8 @@ text-align: center;
 /*--------------------cooks------------------*/
 .koks{
 	grid-area:koks;
-	overflow-y:scroll;
-	overflow-x:hidden;
+	/*overflow-y:scroll;
+	overflow-x:hidden;*/
 
 
 }
@@ -647,7 +661,7 @@ transition:  linear 0s;
 
  /*^^^^^^^^^^^^^^^^ social buttens end ^^^^^^^^^^^^^^^^^^^^^*/
 /*---------------- typography ----------------*/
-@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&subset=cyrillic');
+@import url('https://fonts.googleapis.com/css?family=Roboto');
 @import url('https://fonts.googleapis.com/css?family=Gabriela');
 
 p{
