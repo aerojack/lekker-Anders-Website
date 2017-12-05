@@ -1,5 +1,6 @@
 $(document).ready(function(){
 
-      document.getElementById("object").style.transform = "translate(740%,0) rotate(360deg)";
+      document.getElementById("object").style.transform = "translate(750%,0) rotate(380deg)";
+
 
 });
