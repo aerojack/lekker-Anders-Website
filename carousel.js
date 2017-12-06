@@ -12,6 +12,9 @@
  * for use with the jQuery JavaScript Framework
  * https://www.jquery.com
  */
+
+
+
 (function ($) {
   'use strict';
 
@@ -500,7 +503,7 @@
 
       // Remove autoplay
       autoPlay(true);
-      options.autoPlay = 15000;
+      options.autoPlay = 3000;   // ROTATIE AFTER CLICK
 
       var rotations = Math.abs(itemPosition);
       if (itemPosition == 0) {
@@ -653,14 +656,14 @@
     flankingItems:              3,   // the number of items visible on either side of the center
 
     // animation
-    speed:                      300,      // speed in milliseconds it will take to rotate from one to the next
+    speed:                      2000,      //  DEZE!!! speed in milliseconds it will take to rotate from one to the next
     animationEasing:            'linear', // the easing effect to use when animating
     quickerForFurther:          true,     // set to true to make animations faster when clicking an item that is far away from the center
     edgeFadeEnabled:            false,    // when true, items fade off into nothingness when reaching the edge. false to have them move behind the center image
 
     // misc
     linkHandling:               2,                 // 1 to disable all (used for facebox), 2 to disable all but center (to link images out)
-    autoPlay:                   15000,                 // indicate the speed in milliseconds to wait before autorotating. 0 to turn off. Can be negative
+    autoPlay:                   3000,                 // indicate the speed in milliseconds to wait before autorotating. 0 to turn off. Can be negative
     orientation:                'horizontal',      // indicate if the carousel should be 'horizontal' or 'vertical'
     activeClassName:            'carousel-center', // the name of the class given to the current item in the center
     keyboardNav:                false,             // set to true to move the carousel with the arrow keys

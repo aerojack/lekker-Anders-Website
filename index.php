@@ -104,57 +104,35 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 
 	<div id="koks" class="koks">
 		<div class="kokspaginagrid">
-      <div id="section1koks" class="section1koks">
-        <h1a>Bjorn</h1a>
-          <center>
-<!-- <img src="https://res.cloudinary.com/dvswwojqq/image/upload/c_scale,h_300,w_300/v1511353535/Bjorn-Borg_tqq2ca.jpg"></img> -->
 
-            <video width="420" height="340" autoplay loop>
-             <source src="WhatsApp.mp4" type="video/mp4">
-             <source src="WhatsApp" type="video/ogg">
-           Your browser does not support the video tag.
-           </video>
+      <div id="section1koks" class="section1koks"></div>
+			<div id="section2koks" class="section2koks"></div>
+      <div id="section3koks" class="section3koks"></div>
+      <div id="section4koks" class="section4koks"></div>
+      <div id="section5koks" class="section5koks"></div>
+      <div id="section6koks" class="section6koks"></div>
+      <div id="section7koks" class="section7koks"></div>
+      <div id="section8koks" class="section8koks"></div>
+      <div id="section9koks" class="section9koks"></div>
+      <div id="section10koks" class="section10koks"></div>
+      <div id="section11koks" class="section11koks"></div>
+      <div id="section12koks" class="section12koks"></div>
+      <div id="section13koks" class="section13koks"></div>
+      <div id="section14koks" class="section14koks"></div>
+      <div id="section15koks" class="section15koks"></div>
+      <div id="section16koks" class="section16koks"></div>
+      <div id="section17koks" class="section17koks"></div>
+      <div id="section18koks" class="section18koks"></div>
+      <div id="section19koks" class="section19koks"></div>
+      <div id="section20koks" class="section20koks"></div>
+      <div id="section21koks" class="section21koks"></div>
+      <div id="section22koks" class="section22koks"></div>
+      <div id="section23koks" class="section23koks"></div>
+      <div id="section24koks" class="section24koks"></div>
 
-
-        </center>
-          <p>Bjorn is onze barbecue ster en hij mag graag van alles op het gloeiendhete rooster gooien. Daarvoor zoekt hij naar recepten van over de hele wereld. Vaak is hij op reis om op de meest afgelegen locaties recepten te proeven en om inspiratie op te doen.
-          Bezoek de website van Bjorn om te weten op welke evenementen hij te vinden is.<br><br>
-          <a href="https://www.BBQ-Bjorn.nl" target="blank"><font color="#ffffff">BBQ-Bjorn</font color></a><br><br>
-        Bjorn start zijn grill op voor ons op donderdag 1 februari, vrijdag 2 februari, zaterdag 3 februari en zondag 4 februari 2018. Bespreek uw plaats op tijd!</p><br>
       </div>
-
-			<div id="section2koks" class="section2koks">
-
-          <h1a>Lena</h1a>
-          <center><img src="https://res.cloudinary.com/dvswwojqq/image/upload/c_scale,h_300,q_100,w_300/v1510128561/20245467_845620175589864_473780876644479737_n_a6ol8d.jpg"></img></center>
-          <p>Lena heeft een uitmuntend gevoel voor balans. Ze maakt de meest prachtige vegetarische gerechten. Smaakvolle creaties zijn haar specialiteit.
-            Lena is een graag geziene gastoptreder bij Lekker en Anders, het verdient dan ook aanbeveling dat u tijdig reserveert wanneer u van haar kookunsten wilt genieten.
-            U kunt haar creaties nader bestuderen en haar eventueel inschakelen om voor u te koken via haar Facebook-pagina.
-            <br><br>
-            <a href="https://www.facebook.com/levenlifestyle/" target="blank"><font color="#ffffff">LeVen@levenlifestyle</font color></a><br><br>
-            Lena gaat weer voor ons koken op donderdag 25 januari, vrijdag 26 januari, zaterdag 27 januari en zondag 28 januari 2018. Wees tijdig met reserveren.</p><br>
-          </div>
-
-        <div id="section3koks" class="section3koks">
-          <h1a>Thomas</h1a>
-            <center><img src="https://res.cloudinary.com/dvswwojqq/image/upload/c_scale,h_300,w_300/v1511353536/nick--thomas-verslaat-keizer--munnik_oip9wi.jpg"></img></center>
-          <p>Thomas kookt met vis. Er is niets dat hij niet wil proberen. Het is dus koken op hoog niveau. Soms betreft het een recept uit Noorwegen, soms een recept uit Japan, soms wordt de vis gekookt, soms gebakken, soms gerookt. Elke keer wanneer Thomas kookt waant u zich in een andere wereld, een wilde wereld.<br><br>
-            <a href="https://www.thomasdewildevisboer.nl" target="blank"><font color="#ffffff">Thomas de Wilde Visboer</font color></a><br><br>
-            Thomas gaat voor u op de chinese toer. Wilt u zijn creaties proeven kom dan langs op donderdag 15 februari, vrijdag 16 februari, zaterdag 17 februari of zondag 18 februari 2018. Reserveren kan via deze website op de reserveringspagina.</p><br></div>
-
-            <div id="section4koks" class="section4koks">
-
-              <h1a>Willemijn</h1a>
-                <center><img src="https://res.cloudinary.com/dvswwojqq/image/upload/c_scale,w_300/v1511353536/e06f0ab4c8c08e6510ad6c5df776c85e_360x360_center_biqicm.png"></img></center>
-              <p>Willemijn wil graag vergeten groenten en recepten weer onder de aandacht brengen. Zij is zeer geinteresseerd in de traditionele Hollandse keuken. Zij kookt dan ook graag stevige kost. Denk daarbij aan een goede andijviestamppot naar Fries recept of heerlijke snert (erwtensoep) zoals Willemijn's oma uit Zeeland die altijd maakte. Willemijn staat garant voor verrassende, en kwalitatief hoogstaande maaltijden.
-                Op de website van Willemijn vindt u haar recepten en ook allerlei tips uit Grootmoeders tijd.<br><br>
-                <a href="https://www.Willemijnkooktengeeftraad.nl" target="blank"><font color="#ffffff">Willemijn Koster recepten van door de eeuwen heen</font color></a><br><br>
-              Willemijn stampt weer een heerlijk potje voor u op donderdag 8 februari, vrijdag 9 februari, zaterdag 10 februari en zondag 11 februari 2018. <br>Het zit vast en zeker weer stampvol, wees tijdig met reserveren!</p><br>
-            </div>
-
-			</div>
-
     </div>
+
 
 
 	<!-------------- second row -------------->
