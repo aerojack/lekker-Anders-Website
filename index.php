@@ -46,6 +46,7 @@
      			<li><a href="#onsaanbod" title="onsaanbod" onclick="highlite(this);"> <i class="navbarlogo fa fa-cutlery" aria-hidden="true"></i> </a></li>
      			<li><a href="#overons" title="Over ons" onclick="highlite(this);"> <i class="navbarlogo fa fa-users" aria-hidden="true"></i> </a></li>
      			<li><a href="#contact" title="Contact" onclick="highlite(this);">  <i class="navbarlogo fa fa-address-book" aria-hidden="true"></i>  </a></li>
+          <li><a href="#pagina6" title="pagina6" onclick="highlite(this);">  <i class="navbarlogo fa fa-calendar" aria-hidden="true"></i>  </a></li>
      		</ul>
      	</nav>
 
@@ -238,7 +239,11 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 	</div>
 
 </div>
-	<div id="pagina6" class="pagina6"></div>
+	<div id="pagina6" class="pagina6">
+    <div id="calendarpagina6" class="calendarpagina6">
+    </div>
+
+  </div>
 	<!-------------- third row -------------->
 	<div id="onsaanbod" class="onsaanbod">
 		<div class="onsaanbodgrid">
@@ -420,22 +425,15 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 					<h1>Contact</h1>
 						<div class="randje">
 							<div class="contactveld">
-
 								<form  action="action_page_contact.php" method="post">
 <br>
 									<label for="firstname"> </label>
 									<input type="text" id="firstname" name="firstname" placeholder="Uw naam">
-
 									<label for="email">  </label>
 									<input type="text" id="email" name="email" placeholder="Uw E-mail">
-
-
-
-
 <br>
 									<label for="subject"> <p1>Uw bericht</p1> </label>
 									<textarea id="subject" name="subject" placeholder="Uw bericht" style="height:130px"></textarea>
-
 									<input type="submit" value="Verzend">                      </input>
 								</form>
 								<br>
@@ -443,22 +441,11 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 									Baander 3 <br>
 									7811 HH Emmen <br>
 								</p1>
-
 							</div>
 						</div>
 	<br>
 				</div>
-
-
-
-
-
-
 			</div>
-
-
-
-
 
 	<div id="pagina12" class="pagina12"></div>
 
@@ -477,6 +464,7 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 
 <script type="text/javascript" src="carousel.js"></script>
 <script type="text/javascript" src="navbar highlight.js"></script>
+<script type="text/javascript" src="facebookeventsjavascript.js"></script>
 
 
 </body>
