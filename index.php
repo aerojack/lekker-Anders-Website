@@ -289,15 +289,24 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 
 			</div>
 			<div class="section5overons">
-				<h3>Over Lekker Anders</h3><br>
-
-<p> Lekker Anders is ontstaan uit liefde voor lekker eten en drinken, nieuwsgierigheid naar mensen en drang naar vernieuwing.</p><br>
-	<p>Alya Assen bracht verschillende ideeën en mensen bij elkaar en uit deze mix is Lekker Anders ontstaan.</p><br>
-	<p>Het team bestaat nu uit Piet Puk, Katrien Vogels, Klaas Baard en Alya Assen.<br>
-	Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.</p><br>
-	<p>Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde zijn ‘anders dan andere’ producten maakt.</p><br>
-	<p>Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf: wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje?
-	We ontmoeten u graag snel!</p>
+				<h3> Over Lekker Anders </h3>
+<br>
+<p>Lekker Anders is ontstaan uit liefde voor lekker eten en drinken, <br>
+	nieuwsgierigheid naar mensen en drang naar vernieuwing.</p>
+<br>
+<p>Alya Assen bracht verschillende ideeën en mensen bij elkaar<br>
+	 en uit deze mix is Lekker Anders ontstaan.</p>
+<br>
+</p>Het team bestaat uit Piet Puk, Katrien Vogels, Klaas Baard en Alya Assen.<br>
+Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.</p>
+<br>
+<p>Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde<br>
+	‘anders dan andere’ producten maakt.<p>
+<br>
+<p>Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf: <br>
+	wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje?</p>
+	<br>
+<p>We ontmoeten u graag snel!</p>
 <!-- <h3>Lekker Anders is een combinatie van allerlei soorten eetgelegenheden.</h3><br>
 
 <p>Naast een leuke stek voor uw ontbijt en lunch zijn we ook Coffee Bar,  een Take Away Counter en een Aanschuif- en experimenteerrestaurant.
