@@ -736,7 +736,6 @@ text-align: center;
 
 /*------------animatie sub logo-----------*/
 
-/*^^^^^^^^^^^^^^^^^^ animatie sub logo ^^^^^^^^^^^^^^^^*/
 #object {
 	-webkit-transition: 2s ease-in-out;
     -moz-transition: 2s ease-in-out;
@@ -751,3 +750,189 @@ text-align: center;
 		float: center;
 
 }
+/*^^^^^^^^^^^^^^^^^^ animatie sub logo ^^^^^^^^^^^^^^^^*/
+
+/*------------popup-----------*/
+.popup
+{
+  position:fixed;
+  left:50vw;
+  margin-left: 40%;
+  top:50vh;
+  margin-top:10%;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+	width: 300px;
+  font-size:20px;
+  padding:2%;
+  background-color:#d2f095;
+  border-radius:40px;
+  text-align:center;
+}
+
+/* button */
+.knopkoks{
+ 	background-image: url(https://image.jimcdn.com/app/cms/image/transf/none/path/s5472294e2035c9fc/image/i732d2b48389b6d38/version/1490645096/image.jpg);
+ 	color: white;
+ 	justify-content: center;
+ 	align-items: center;
+ 	display:inline-block;
+ 	text-align:center;
+ 	font-size:45px;
+ 	border-radius:100px;
+	background-position: 50%;
+	width: 80%;
+	background-size: 80%;
+	background-repeat:no-repeat;
+	background-color: #354a04;
+	min-height: 25vh;
+}
+.knopkoks:hover ~.popup
+{
+  margin-left:-20%;
+  margin-top:-260px;
+  opacity:1;
+}
+
+
+
+
+
+
+
+.popup1
+{
+  position:fixed;
+  left:50vw;
+  margin-left: 40%;
+  top:50vh;
+  margin-top:10%;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+  /*width:120px;*/
+  font-size:20px;
+  padding:2%;
+  background-color:#d2f095;
+  border-radius:40px;
+  text-align:center;
+}
+.knopkoks1{
+ 	background-image: url("images/rene.jpg");
+ 	color: white;
+ 	justify-content: center;
+ 	align-items: center;
+ 	display:inline-block;
+ 	text-align:center;
+ 	font-size:45px;
+ 	border-radius:100px;
+	background-position: 50%;
+	width: 80%;
+	background-size: 80%;
+	background-repeat:no-repeat;
+	background-color: #354a04;
+	min-height: 25vh;
+}
+.knopkoks1:hover ~.popup1
+{
+  margin-left:15%;
+  margin-top:-220px;
+  opacity:1;
+}
+
+
+
+
+
+
+
+
+
+
+.popup2
+{
+  position:fixed;
+  left:50vw;
+  margin-left: 40%;
+  top:50vh;
+  margin-top:10%;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+  /*width:120px;*/
+  font-size:20px;
+  padding:2%;
+  background-color:#d2f095;
+  border-radius:40px;
+  text-align:center;
+}
+.knopkoks2{
+ 	background-image: url("images/header_woestegrond3.png");
+ 	color: white;
+ 	justify-content: center;
+ 	align-items: center;
+ 	display:inline-block;
+ 	text-align:center;
+ 	font-size:45px;
+ 	border-radius:100px;
+	background-position: 50%;
+	width: 80%;
+	background-size: 80%;
+	background-repeat:no-repeat;
+	background-color: #354a04;
+	min-height: 25vh;
+}
+.knopkoks2:hover ~.popup2
+{
+  margin-left:-10%;
+  margin-top:-320px;
+  opacity:1;
+}
+
+
+
+
+
+
+
+.popup3
+{
+	position:fixed;
+  left:50vw;
+  margin-left: 40%;
+  top:50vh;
+  margin-top:10%;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+  /*width:120px;*/
+  font-size:20px;
+  padding:2%;
+  background-color:#d2f095;
+  border-radius:40px;
+  text-align:center;
+}
+.knopkoks3{
+ 	background-image: url("images/amsterdamgoodcookies.png");
+ 	color: white;
+ 	justify-content: center;
+ 	align-items: center;
+ 	display:inline-block;
+ 	text-align:center;
+ 	font-size:45px;
+ 	border-radius:100px;
+	background-position: 50%;
+	width: 80%;
+	background-size: 80%;
+	background-repeat:no-repeat;
+	background-color: #354a04;
+	min-height: 25vh;
+}
+.knopkoks3:hover ~.popup3
+{
+	margin-left:30%;
+  margin-top:-320px;
+  opacity:1;
+}
+/*^^^^^^^^^^^^^^^^^^ popup ^^^^^^^^^^^^^^^^*/

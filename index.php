@@ -112,16 +112,52 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
       <div id="section5koks" class="section5koks"></div>
       <div id="section6koks" class="section6koks"></div>
       <div id="section7koks" class="section7koks"></div>
-      <div id="section8koks" class="section8koks"></div>
+      <div id="section8koks" class="section8koks">
+          <span class='knopkoks'  > <br>  </span>
+          <div class='popup'>
+            <h1>Chocolaterie 1912</h1>
+            Chocolaterie -1912- werd in februari 2006 geopend door Anita Helsen en Marisca Scholte.
+            Het kleine winkeltje aan de Noorderstraat in Emmen is volledig gevuld met producten die vervaardigd worden in het atelier die op een andere locatie gevestigd is.
+            Anita staat meestal in de winkel. Haar Belgische achtergrond past helemaal bij dit typisch Belgische product. Anita zorgt voor de structuur in de winkel, de prachtige verpakkingen die u bij ons kunt vinden en uiteraard voor de verkoop.
+            Af en toe staat ze ook in het atelier. Juist de afwisseling van de winkel en af en toe het atelier spreekt haar aan.
+          </div>
+      </div>
       <div id="section9koks" class="section9koks"></div>
-      <div id="section10koks" class="section10koks"></div>
+      <div id="section10koks" class="section10koks">
+        <span class='knopkoks1'  > <br>  </span>
+        <div class='popup1'>
+          <h1>Rene Ruiter</h1>
+  Pure smaken René Ruiter is de chef van tafel16. Met jaren ervaring als chef bij diverse restaurants op sterrenniveau, weet hij precies wat er nodig is om een ingrediënt om te toveren tot een smakelijk gerecht. De natuur zijn werk laten doen, is daarbij zijn leidraad.
+        </div>
+
+      </div>
       <div id="section11koks" class="section11koks"></div>
       <div id="section12koks" class="section12koks"></div>
       <div id="section13koks" class="section13koks"></div>
       <div id="section14koks" class="section14koks"></div>
-      <div id="section15koks" class="section15koks"></div>
+      <div id="section15koks" class="section15koks">
+
+        <span class='knopkoks2'  > <br>   </span>
+        <div class='popup2'>
+        <h1>Woeste Grond </h1>
+        We vinden het belangrijk dat van A tot Z bekend is welke weg een stuk vlees aflegt. We houden de keten klein en hebben alles in eigen beheer. Twee principes staan bij De Woeste Grond hoog in het vaandel: we gooien zo min mogelijk van het dier weg en diverse toevoegingen (vb. E-nummers) vinden geen weg in ons bedrijf. Gewoon, omdat ieder stuk vlees het waard is om van te genieten en de pure smaak van vlees al een genot is voor de smaakpapillen.
+        Wij staan persoonlijk garant voor de dieren en ons vlees. Zo waarborgen wij een goede kwaliteit en staan wij voor een duidelijke herkomstgarantie. Duurzaam is een woord dat wij vaak gebruiken en een rode draad vormt in ons bedrijf.
+        Ben je benieuwd naar de omstandigheden waarin onze dieren leven? Of welke voordelen deze omstandigheden opleveren voor de omgeving, de dieren en jezelf? We staan je graag te woord!
+        </div>
+
+
+      </div>
       <div id="section16koks" class="section16koks"></div>
-      <div id="section17koks" class="section17koks"></div>
+      <div id="section17koks" class="section17koks">
+        <span class='knopkoks3'  > <br>   </span>
+        <div class='popup3'>
+        <h1>Amsterdam GoodCookies </h1>
+
+        hoe wij stroopwafels experts werden:
+        Ons verhaal is eigenlijk best eenvoudig. Hij is een doodnormale Hollandse jongen, houdt van stroopwafels en wil de authentieke, versgebakken Amsterdam! Good Stroopwafels delen met de rest van de wereld.
+        ZEVEN jaar geleden toen Kevin (eigenaar) in het Latijns Amerikaanse land Costa Rica woonde, gaf hij de stroopwafel al regelmatig weg als relatiegeschenk aan Costaricanen en Amerikanen. Toen dit enorm enthousiast werd ontvangen en er vaak werd gevraagd waar ze meer van deze heerlijke koeken konden krijgen kwam het idee om een eigen stroopwafel merk te beginnen. Dit was het begin van Amsterdam! Good Cookies.
+        </div>
+      </div>
       <div id="section18koks" class="section18koks"></div>
       <div id="section19koks" class="section19koks"></div>
       <div id="section20koks" class="section20koks"></div>
