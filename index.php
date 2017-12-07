@@ -71,14 +71,14 @@
   <img src= "images/Barista1.png"style="width: 90%; height auto; float: center; ">
 	<h3> Onze Barista’s & ons High Tea arrangement</h3><br>
 
-<p>Bij ons kunt u terecht voor een goede bak koffie en een vers kopje thee.</p>
+<p>Bij ons kun je terecht voor een goede bak koffie en een vers kopje thee.</p>
 
 <p>Omdat koffie zo' n lekker product is hebben we een breed aanbod.<br>
-Bij Lekker en Anders  staan ervaren Baristas achter de toog.<br>
-Zij draaien hun hand niet om voor uw Espresso, Capuccino, Latte of Mocha.<br>
-Ook voor uw thee genoegens hebben we een fantastisch aanbod.<br>
+Bij Lekker Anders  staan ervaren Barista's achter de toog.<br>
+Zij draaien hun hand niet om voor jou een Espresso, Cappuccino, Latte of Mocha te maken.<br>
+Ook voor je thee genoegens hebben we een fantastisch aanbod.<br>
 Kom langs om een aantal varianten te proeven.<br>
-U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned High Tea arrangement. </p>
+Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned High Tea arrangement. </p>
 
 
 	<div class="randjeb">
@@ -221,22 +221,22 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 			<div class="section5onsaanbod">
 <br><h3>Ontbijt</h3>
 
-				<p>Kom bij Lekker en Anders ontbijten of neem uw ontbijt mee voor onderweg.<br>
-				Wij verzorgen voor u een compleet ontbijt.</p>
+				<p>Kom bij Lekker Anders ontbijten of neem je ontbijt mee voor onderweg.<br>
+				Wij verzorgen voor jou een compleet ontbijt.</p>
 <br>
 <h3>Lunch</h3>
 			<p>
-			Lunch betekent bij ons dat u kunt kiezen uit een hoeveelheid aan gerechten.<br>
+			Lunch betekent bij ons dat je kunt kiezen uit een hoeveelheid aan gerechten.<br>
 			Heerlijk belegde broodjes, mooie salades, soep of een broodje uitsmijter.<br>
-			De keuze is aan u.<br>
+			De keuze is aan jou.<br>
 			Daarnaast bieden we elke dag van de week iets speciaals aan.<br>
 			</p>
 <br>
 			<h3>Onze lunch specials:</h3>
 <p>
 			Maandag: Mediterrane lunchgerechten.<br>
-			Dinsdag: Er staan een paar heerlijke speciaal-soepen op het menu.<br>
-			Woensdag: Pannenkoeken! Van over de hele wereld.<br>
+			Dinsdag: Er staan heerlijke speciaal-soepen op het menu.<br>
+			Woensdag: Pannenkoeken!<br>
 			Donderdag: Tosti Thursday – gevarieerde keuze uit diverse tosti’s.<br>
 			Vrijdag: Vegetarische lunchgerechten.<br>
 			Zaterdag: Scandinavische lunchgerechten.<br>
@@ -244,15 +244,15 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 			</p>
 <br>
 			<h3>Het aanschuifrestaurant</h3>
-<p>Elke donderdag-, vrijdag-, zaterdag-, of zondagavond is er een andere kok voor u aan het werk.<br>
-	  De ene keer is dat een gerenommeerde koks of cateraar, de andere keer een getalenteerde beginner.</p>
+<p>Elke vrijdag-, zaterdag-, of zondagavond is er een andere kok voor je aan het werk.<br>
+	 De ene keer is dat een gerenommeerde koks of cateraar, de andere keer een getalenteerde beginner.</p>
 <br>
 
-<p>U kunt op deze dagen aanschuiven van 18:00 uur tot 23:00 uur.</p>
+<p>Je kunt op deze dagen aanschuiven van 18:00 uur tot 23:00 uur.</p>
 <br>
 
-<p>Wij willen u dan ook graag informeren over deze mensen, die met passie voor u koken. <br>
-	Zie voor onze planning van aankomende avonden en andere bijzonderheden <br>
+<p>Wij willen je dan ook graag informeren over deze mensen, die met zoveel passie koken. <br>
+	Zie onze agenda voor aankomende avonden en andere bijzonderheden en bekijk ook <br>
 	onze webpagina met informatie over de gastoptredens door koks en cateraars.</p>
 
 
@@ -289,20 +289,22 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 
 			</div>
 			<div class="section5overons">
-				<h3>Lekker en Anders – het idee </h3><br>
+				<h3>Over Lekker Anders</h3><br>
 
-<p> Lekker Anders is ontstaan uit het idee dat er op elk moment van de dag, <br>
-	op ontspannen wijze mag worden genoten van een hapje of een drankje. </p>
-<p>Daarnaast is voor ons belangrijk dat Lekker en Anders ook een plek voor ontmoeting en kennismaking is.<br>
-	 Een ontmoeting met uw disgenoten, een kennismaking met nieuwe smaken.</p>
-<br>
-<h3>Lekker en Anders is een combinatie van allerlei soorten eetgelegenheden.</h3><br>
+<p> Lekker Anders is ontstaan uit liefde voor lekker eten en drinken, nieuwsgierigheid naar mensen en drang naar vernieuwing.</p><br>
+	<p>Alya Assen bracht verschillende ideeën en mensen bij elkaar en uit deze mix is Lekker Anders ontstaan.</p><br>
+	<p>Het team bestaat nu uit Piet Puk, Katrien Vogels, Klaas Baard en Alya Assen.<br>
+	Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.</p><br>
+	<p>Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde zijn ‘anders dan andere’ producten maakt.</p><br>
+	<p>Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf: wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje?
+	We ontmoeten u graag snel!</p>
+<!-- <h3>Lekker Anders is een combinatie van allerlei soorten eetgelegenheden.</h3><br>
 
 <p>Naast een leuke stek voor uw ontbijt en lunch zijn we ook Coffee Bar,  een Take Away Counter en een Aanschuif- en experimenteerrestaurant.
 Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 <br>
-<p>Bij Lekker en Anders willen we ook graag aandacht besteden aan de ontwikkelingen binnen de kookwereld.<br>
-	 We hebben dan ook veel interesse in de vegetarische keuken of het koken met seizoensgebonden producten uit de regio.
+<p>Bij Lekker Anders willen we ook graag aandacht besteden aan de ontwikkelingen binnen de kookwereld.<br>
+	 We hebben dan ook veel interesse in de vegetarische keuken of het koken met seizoensgebonden producten uit de regio. -->
 				<br>
 			</div>
 			<div class="section6overons">

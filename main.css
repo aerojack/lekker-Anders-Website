@@ -413,7 +413,7 @@ text-align: center;
 .section5onsaanbod{
 	grid-area:section5onsaanbod;
 	background-color: #abf15f;
-	height: 75vh;
+	height: 80vh;
 	border-radius: 25%;
 	text-align: center;
 
@@ -470,7 +470,7 @@ text-align: center;
 	text-align: center;
 	background-color: RGB(171,241,95);
 	border-radius: 25%;
-	height:55vh;
+	height:75vh;
 	border: 10px;
 }
 
