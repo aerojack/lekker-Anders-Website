@@ -195,15 +195,15 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 <a href="https://www.facebook.com/slktchn/" target="_blank">SoulKitchen</a>
 </p></div>
 				</div>
-</div>
 
 
-			</div>
+
+
       <div id="section23koks" class="section23koks"></div>
       <div id="section24koks" class="section24koks"></div>
 
-      </div>
-    </div>
+  </div>
+  </div>
 
 
 
