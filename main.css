@@ -763,7 +763,7 @@ text-align: center;
   opacity:0;
   transition:all 1s;
   -webkit-transition:all 1s;
-	width: 300px;
+	width: 350px;
   font-size:20px;
   padding:2%;
   background-color:#d2f095;
@@ -773,7 +773,7 @@ text-align: center;
 
 /* button */
 .knopkoks{
- 	background-image: url(https://image.jimcdn.com/app/cms/image/transf/none/path/s5472294e2035c9fc/image/i732d2b48389b6d38/version/1490645096/image.jpg);
+ 	background-image: url(https://res.cloudinary.com/dvswwojqq/image/upload/v1512650442/GerdaBrendaMariscaAnitChocolaterie1912_pwy1fd.jpg);
  	color: white;
  	justify-content: center;
  	align-items: center;
@@ -868,7 +868,7 @@ text-align: center;
   text-align:center;
 }
 .knopkoks2{
- 	background-image: url("images/header_woestegrond3.png");
+ 	background-image: url("https://res.cloudinary.com/dvswwojqq/image/upload/v1512650441/19780598_1900716173501473_7650873327920850744_o_k5vtuh.jpg");
  	color: white;
  	justify-content: center;
  	align-items: center;
@@ -935,6 +935,104 @@ text-align: center;
   margin-top:-320px;
   opacity:1;
 }
+
+
+
+
+
+
+.popup4
+{
+  position:fixed;
+  left:50vw;
+  margin-left: 40%;
+  top:50vh;
+  margin-top:10%;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+  /*width:120px;*/
+  font-size:20px;
+  padding:2%;
+  background-color:#d2f095;
+  border-radius:40px;
+  text-align:center;
+}
+.knopkoks4{
+ 	background-image: url("https://res.cloudinary.com/dvswwojqq/image/upload/v1512650442/20245467_845620175589864_473780876644479737_n_cncmnx.jpg");
+ 	color: white;
+ 	justify-content: center;
+ 	align-items: center;
+ 	display:inline-block;
+ 	text-align:center;
+ 	font-size:45px;
+ 	border-radius:100px;
+	background-position: 50%;
+	width: 80%;
+	background-size: 80%;
+	background-repeat:no-repeat;
+	background-color: #354a04;
+	min-height: 25vh;
+}
+.knopkoks4:hover ~.popup4
+{
+  margin-left:15%;
+  margin-top:-220px;
+  opacity:1;
+}
+
+
+
+
+.popup5
+{
+  position:fixed;
+  left:50vw;
+  margin-left: 40%;
+  top:50vh;
+  margin-top:10%;
+  opacity:0;
+  transition:all 1s;
+  -webkit-transition:all 1s;
+  /*width:120px;*/
+  font-size:20px;
+  padding:2%;
+  background-color:#d2f095;
+  border-radius:40px;
+  text-align:center;
+}
+.knopkoks5{
+ 	background-image: url("https://res.cloudinary.com/dvswwojqq/image/upload/v1512650441/19756335_1910791519206842_8797305731790370561_n_ic2y75.jpg");
+ 	color: white;
+ 	justify-content: center;
+ 	align-items: center;
+ 	display:inline-block;
+ 	text-align:center;
+ 	font-size:45px;
+ 	border-radius:100px;
+	background-position: 50%;
+	width: 80%;
+	background-size: 80%;
+	background-repeat:no-repeat;
+	background-color: #354a04;
+	min-height: 25vh;
+}
+.knopkoks5:hover ~.popup5
+{
+  margin-left:15%;
+  margin-top:-220px;
+  opacity:1;
+}
+
+
+
+
+
+
+
+
+
+
 /*^^^^^^^^^^^^^^^^^^ popup ^^^^^^^^^^^^^^^^*/
 
 
