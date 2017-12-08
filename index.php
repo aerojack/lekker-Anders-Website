@@ -46,6 +46,7 @@
      			<li><a href="#onsaanbod" title="onsaanbod" onclick="highlite(this);"> <i class="navbarlogo fa fa-cutlery" aria-hidden="true"></i> </a></li>
      			<li><a href="#overons" title="Over ons" onclick="highlite(this);"> <i class="navbarlogo fa fa-users" aria-hidden="true"></i> </a></li>
      			<li><a href="#contact" title="Contact" onclick="highlite(this);">  <i class="navbarlogo fa fa-address-book" aria-hidden="true"></i>  </a></li>
+          <li><a href="#pagina6" title="pagina6" onclick="highlite(this);">  <i class="navbarlogo fa fa-calendar" aria-hidden="true"></i>  </a></li>
      		</ul>
      	</nav>
 
@@ -85,6 +86,7 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 </div>
 </div>
 
+
 <!------------------------------------section6------------------------------------>
 <div id="section6b" class="section6b">
 
@@ -110,21 +112,93 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
       <div id="section5koks" class="section5koks"></div>
       <div id="section6koks" class="section6koks"></div>
       <div id="section7koks" class="section7koks"></div>
-      <div id="section8koks" class="section8koks"></div>
+      <div id="section8koks" class="section8koks">
+          <span class='knopkoks'  > <br>  </span>
+          <div class='popup'>
+						<h3>Lekker Anders met Anita, Marisca, Gerda en Brenda van Chocolaterie 1912</h3>
+<p>Chocolaterie -1912- werd in februari 2006 geopend door Anita Helsen en Marisca Scholte en later aangevuld met Gerda Boers en Brenda Nieland.
+De bonbonwinkel is een begrip in- en buiten Emmen.</p>
+<p>Een kleine winkel, weliswaar maar voor een fijn product en groots in kwaliteit. Alle bonbons worden nog 'lekker ouderwets' met de hand gemaakt. Er wordt gebruik gemaakt van verse en pure ingrediënten omdat dat belangrijk is.</p>
+<p>De bonbon met munt wordt daadwerkelijk gemaakt met verse munt uit eigen tuin. Een bonbon met karamel? Dat betekent zelf suiker branden om er een heerlijke karamel van te maken om de bonbons mee te vullen.Kortom; pure liefde voor het vak, en dat proef je!</p>
+<p>Laat je verleiden op de website van:
+<a href="https://www.chocolaterie1912.nl/" target="_blank">Chocolaterie -1912-</a>
+</p> </div>
+      </div>
       <div id="section9koks" class="section9koks"></div>
-      <div id="section10koks" class="section10koks"></div>
+      <div id="section10koks" class="section10koks">
+        <span class='knopkoks1'  > <br>  </span>
+        <div class='popup1'>
+					<h3>Lekker Anders met Rene Ruiter van Tafel 16</h3>
+<p>René Ruiter is de chef van Tafel 16. Met jaren ervaring als chefkok bij diverse restaurants op sterrenniveau, weet hij precies wat er nodig is om een ingrediënt om te toveren tot een smakelijk gerecht. </p>
+<p>De natuur zijn werk laten doen, is daarbij zijn leidraad.
+Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen kiest de heerlijke ingrediënten. Dat is namelijk de basis voor een smaakvol en puur gerecht! </p>
+<p>René deelt met enthousiasme zijn kennis over de ingrediënten en gerechten met zijn gasten, waardoor ieder gerecht nog meer smaakbeleving krijgt.</p>
+<p>Tafel16 serveert op verschillende locaties bijzondere gerechten geïnspireerd door het seizoen.</p>
+<p>Bezoek René op zijn website:
+	<a href="http://tafel16.nl/" target="_blank">Tafel16</a>
+</p>
+</div>
+
+      </div>
       <div id="section11koks" class="section11koks"></div>
       <div id="section12koks" class="section12koks"></div>
       <div id="section13koks" class="section13koks"></div>
       <div id="section14koks" class="section14koks"></div>
-      <div id="section15koks" class="section15koks"></div>
+      <div id="section15koks" class="section15koks">
+
+        <span class='knopkoks2'  > <br>   </span>
+        <div class='popup2'>
+					<h3>Lekker Anders met Leon, Eugenie, Harry, Johan en Andre van De Woeste Grond</h3>
+	<p>Bij ‘De Woeste Grond’ staan twee mensen aan het roer: slager Léon Stam en marketing expert Eugénie Benda. Daarnaast zijn Harry, Johan en Andre actief in het bedrijf.</p>
+	<p>Zij vinden het belangrijk dat van A tot Z bekend is welke weg een stuk vlees aflegt. Ze houden de keten klein en hebben alles in eigen beheer. </p>
+	<p>Twee principes staan bij De Woeste Grond hoog in het vaandel: gooi zo min mogelijk van het dier weg en toevoegingen (zoals bijvoorbeeld E-nummers) hebben geen plaats binnen het bedrijf.  Gewoon, omdat ieder stuk vlees het waard is om van te genieten en de pure smaak van vlees al genot is voor de smaakpapillen.</p>
+	<p>Kijk maar eens nieuwsgierig rond:
+		<a href="https://www.facebook.com/dewoestegrond/" target="_blank">De Woeste Grond</a>
+</p>
+</div>
+
+
+      </div>
       <div id="section16koks" class="section16koks"></div>
-      <div id="section17koks" class="section17koks"></div>
+      <div id="section17koks" class="section17koks">
+        <span class='knopkoks3'  > <br>   </span>
+        <div class='popup3'>
+					<h3>Lekker Anders met Kevin Mooibroek van Amsterdam Good Cookies</h3>
+<p>Kevin Mooibroek, de eigenaar van Amsterdam Good Cookies, woonde in het Latijns-Amerikaanse land Costa Rica. </p>
+<p>Hij gaf regelmatig stroopwafels weg als relatiegeschenk aan Costaricanen en Amerikanen. Deze stroopwafels werden enorm enthousiast ontvangen. </p>
+<p>Kevin kreeg daarom steeds vaker de vraag waar deze heerlijke koeken te krijgen waren. Zo kwam Kevin op het idee om een eigen stroopwafelmerk te beginnen. Dit was het begin van Amsterdam! Good Cookies.</p>
+<p>Check out more good cookies:
+	<a href="http://amsterdamgoodcookies.com/nl/" target="_blank">Amsterdam! Good Cookies</a>
+	</p></div>
+      </div>
       <div id="section18koks" class="section18koks"></div>
       <div id="section19koks" class="section19koks"></div>
-      <div id="section20koks" class="section20koks"></div>
+      <div id="section20koks" class="section20koks">
+				<span class='knopkoks4'  > <br>   </span>
+				<div class='popup4'>
+					<h3>Lekker Anders met Lena van LeVen</h3>
+<p>Lena heeft een uitmuntend gevoel voor balans. Ze maakt de meest prachtige vegetarische gerechten. Smaakvolle creaties zijn haar specialiteit.</p>
+<p>Lena is een graag geziene gastoptreder bij Lekker Anders, het verdient dan ook aanbeveling dat je tijdig reserveert wanneer je van haar kookkunsten wilt genieten.</p>
+<p>Je kunt haar creaties nader bestuderen en haar eventueel inschakelen om voor je te koken via haar Facebook-pagina:
+<a href="https://www.facebook.com/levenlifestyle/" target="_blank">LeVen LevenLifestyle</a>
+</p></div>
+				</div>
+
       <div id="section21koks" class="section21koks"></div>
-      <div id="section22koks" class="section22koks"></div>
+      <div id="section22koks" class="section22koks">
+				<span class='knopkoks5'  > <br>   </span>
+				<div class='popup5'>
+					<h3>Lekker Anders met SoulKitchen</h3>
+<p>SoulKitchen is van alle markten thuis en serveert gerechten uit de internationale keuken. </p>
+<p>Je kunt net zo makkelijk proeven van heerlijke baklava als subtiele van makarons. SoulKitchen levert allerlei lekkernijen voor je feestjes en partijen en creëert bijvoorbeeld de meest feestelijke taarten en smakelijkste pizza’s.</p>
+<p>Kijk maar eens rond op haar Facebookpagina:
+<a href="https://www.facebook.com/slktchn/" target="_blank">SoulKitchen</a>
+</p></div>
+				</div>
+</div>
+
+
+			</div>
       <div id="section23koks" class="section23koks"></div>
       <div id="section24koks" class="section24koks"></div>
 
@@ -162,20 +236,20 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 		<div id="section3" class="section3"></div>
 
 <!------------------------------------Section 4------------------------------------>
-		<div id="section4" class="section4">
-			<div id="carouselachtergrond" class="carouselachtergrond">
-				<div id="carousel">
-					<a href="#home"> <img src="images-carousel/carousel1.jpg" id="carousel1"  /> </a>
-					<a href="#barista"> <img src="images-carousel/carousel2.jpg" id="carousel2"  /> </a>
-					<a href="#pagina6"> <img src="images-carousel/carousel3.jpg" id="carousel3"  /> </a>
-					<a href="#koks"> <img src="images-carousel/carousel4.jpg" id="carousel4"  /> </a>
-					<a href="#onsaanbod"> <img src="images-carousel/carousel5.jpg" id="carousel5"  /> </a>
-					<a href="#reservering"> <img src="images-carousel/carousel6.jpg" id="carousel6"  /> </a>
-					<a href="#contact"> <img src="images-carousel/carousel7.jpg" id="carousel7"  /> </a>
-					<a href="#overons"> <img src="images-carousel/carousel8.jpg" id="carousel8"  /> </a>
-				</div>
-			</div>
+<div id="section4" class="section4">
+	<div id="carouselachtergrond" class="carouselachtergrond">
+		<div id="carousel">
+			<a href="#home"> <img src="images-carousel/carousel1.jpg" id="carousel1"  /> </a>
+			<a href="#barista"> <img src="images-carousel/carousel2.jpg" id="carousel2"  /> </a>
+			<a href="#pagina6"> <img src="images-carousel/carousel3.jpg" id="carousel3"  /> </a>
+			<a href="#koks"> <img src="images-carousel/carousel4.jpg" id="carousel4"  /> </a>
+			<a href="#onsaanbod"> <img src="images-carousel/carousel5.jpg" id="carousel5"  /> </a>
+			<a href="#contact"> <img src="images-carousel/carousel6.jpg" id="carousel6"  /> </a>
+			<a href="#contact"> <img src="images-carousel/carousel7.jpg" id="carousel7"  /> </a>
+			<a href="#overons"> <img src="images-carousel/carousel8.jpg" id="carousel8"  /> </a>
 		</div>
+	</div>
+</div>
 <!------------------------------------Section 5------------------------------------>
 		<div id="section5" class="section5"></div>
 <!------------------------------------Section 6------------------------------------>
@@ -200,7 +274,11 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 	</div>
 
 </div>
-	<div id="pagina6" class="pagina6"></div>
+	<div id="pagina6" class="pagina6">
+    <div id="calendarpagina6" class="calendarpagina6">
+    </div>
+
+  </div>
 	<!-------------- third row -------------->
 	<div id="onsaanbod" class="onsaanbod">
 		<div class="onsaanbodgrid">
@@ -217,12 +295,12 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 
 			</div>
 			<div class="section5onsaanbod">
-<h3>Ontbijt</h3>
+			<h3>Ontbijt</h3>
 
 				<p>Kom bij Lekker Anders ontbijten of neem je ontbijt mee voor onderweg.<br>
 				Wij verzorgen voor jou een compleet ontbijt.</p>
 
-<h3>Lunch</h3>
+			<h3>Lunch</h3>
 			<p>
 			Lunch betekent bij ons dat je kunt kiezen uit een hoeveelheid aan gerechten.<br>
 			Heerlijk belegde broodjes, mooie salades, soep of een broodje uitsmijter.<br>
@@ -231,7 +309,7 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 			</p>
 
 			<h3>Onze lunch specials:</h3>
-<p>
+			<p>
 			Maandag: Mediterrane lunchgerechten.<br>
 			Dinsdag: Er staan heerlijke speciaal-soepen op het menu.<br>
 			Woensdag: Pannenkoeken!<br>
@@ -242,15 +320,16 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 			</p>
 
 			<h3>Het aanschuifrestaurant</h3>
-<p>Elke vrijdag-, zaterdag-, of zondagavond is er een andere kok voor je aan het werk.<br>
-	 De ene keer is dat een gerenommeerde koks of cateraar, de andere keer een getalenteerde beginner.</p>
-<p>Je kunt op deze dagen aanschuiven van 18:00 uur tot 23:00 uur.</p>
-<p>Wij willen je dan ook graag informeren over deze mensen, die met zoveel passie koken. <br>
-	Zie onze agenda voor aankomende avonden en andere bijzonderheden en bekijk ook <br>
-	onze webpagina met informatie over de gastoptredens door koks en cateraars.</p>
+			<p>Elke vrijdag-, zaterdag-, of zondagavond is er een andere kok voor je aan het werk.<br>
+			De ene keer is dat een gerenommeerde koks of cateraar, de andere keer een getalenteerde beginner.</p>
+			<p>Je kunt op deze dagen aanschuiven van 18:00 uur tot 23:00 uur.</p>
+			<p>Wij willen je dan ook graag informeren over deze mensen, die met zoveel passie koken. <br>
+			Zie onze agenda voor aankomende avonden en andere bijzonderheden en bekijk ook <br>
+			onze webpagina met informatie over de gastoptredens door koks en cateraars.</p>
 
 
 			</div>
+
 			<div class="section6onsaanbod">
 				<img src= "images-lunch/etagere.jpg"style="width: 50%; height auto; float: center; ">
 				</br>
@@ -282,32 +361,24 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 			<div class="section4overons">
 
 			</div>
-			<div class="section5overons">
-				<h3> Over Lekker Anders </h3>
-<p>Lekker Anders is ontstaan uit liefde voor lekker eten en drinken, <br>
-	nieuwsgierigheid naar mensen en drang naar vernieuwing.</p>
-<br>
-<p>Alya Assen bracht verschillende ideeën en mensen bij elkaar<br>
-	 en uit deze mix is Lekker Anders ontstaan.</p>
-<br>
-</p>Het team bestaat uit Piet Puk, Katrien Vogels, Klaas Baard en Alya Assen.<br>
-Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.</p>
-<br>
-<p>Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde<br>
-	‘anders dan andere’ producten maakt.<p>
-<br>
-<p>Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf: <br>
-	wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje?</p>
-	<br>
-<p>We ontmoeten u graag snel!</p>
-<!-- <h3>Lekker Anders is een combinatie van allerlei soorten eetgelegenheden.</h3><br>
-
-<p>Naast een leuke stek voor uw ontbijt en lunch zijn we ook Coffee Bar,  een Take Away Counter en een Aanschuif- en experimenteerrestaurant.
-Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
-<br>
-<p>Bij Lekker Anders willen we ook graag aandacht besteden aan de ontwikkelingen binnen de kookwereld.<br>
-	 We hebben dan ook veel interesse in de vegetarische keuken of het koken met seizoensgebonden producten uit de regio. -->
+				<div class="section5overons">
+					<h3> Over Lekker Anders </h3>
+				<p>Lekker Anders is ontstaan uit liefde voor lekker eten en drinken, <br>
+				nieuwsgierigheid naar mensen en drang naar vernieuwing.</p>
 				<br>
+				<p>Alya Assen bracht verschillende ideeën en mensen bij elkaar<br>
+				en uit deze mix is Lekker Anders ontstaan.</p>
+				<br>
+				</p>Het team bestaat uit Piet Puk, Katrien Vogels, Klaas Baard en Alya Assen.<br>
+				Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.</p>
+				<br>
+				<p>Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde<br>
+				‘anders dan andere’ producten maakt.<p>
+				<br>
+				<p>Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf: <br>
+				wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje?</p>
+				<br>
+				<p>We ontmoeten u graag snel!</p>
 			</div>
 			<div class="section6overons">
 
@@ -388,22 +459,15 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 					<h1>Contact</h1>
 						<div class="randje">
 							<div class="contactveld">
-
 								<form  action="action_page_contact.php" method="post">
 <br>
 									<label for="firstname"> </label>
 									<input type="text" id="firstname" name="firstname" placeholder="Uw naam">
-
 									<label for="email">  </label>
 									<input type="text" id="email" name="email" placeholder="Uw E-mail">
-
-
-
-
 <br>
 									<label for="subject"> <p1>Uw bericht</p1> </label>
 									<textarea id="subject" name="subject" placeholder="Uw bericht" style="height:130px"></textarea>
-
 									<input type="submit" value="Verzend">                      </input>
 								</form>
 								<br>
@@ -411,22 +475,11 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 									Baander 3 <br>
 									7811 HH Emmen <br>
 								</p1>
-
 							</div>
 						</div>
 	<br>
 				</div>
-
-
-
-
-
-
 			</div>
-
-
-
-
 
 	<div id="pagina12" class="pagina12"></div>
 
@@ -445,6 +498,7 @@ Dat betekent dat u van nogal verschillende kaarten kunt kiezen.</p>
 
 <script type="text/javascript" src="carousel.js"></script>
 <script type="text/javascript" src="navbar highlight.js"></script>
+<script type="text/javascript" src="facebookeventsjavascript.js"></script>
 
 
 </body>
