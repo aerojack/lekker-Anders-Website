@@ -190,7 +190,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 				<div class='popup5'>
 					<h3>Lekker Anders met SoulKitchen</h3>
 <p>SoulKitchen is van alle markten thuis en serveert gerechten uit de internationale keuken. </p>
-<p>Je kunt net zo makkelijk proeven van heerlijke baklava als subtiele van makarons. SoulKitchen levert allerlei lekkernijen voor je feestjes en partijen en creëert bijvoorbeeld de meest feestelijke taarten en smakelijkste pizza’s.</p>
+<p>Je kunt net zo makkelijk proeven van heerlijke baklava als van subtiele makarons. SoulKitchen levert allerlei lekkernijen voor je feestjes en partijen en creëert bijvoorbeeld de meest feestelijke taarten en smakelijkste pizza’s.</p>
 <p>Kijk maar eens rond op haar Facebookpagina:
 <a href="https://www.facebook.com/slktchn/" target="_blank">SoulKitchen</a>
 </p></div>
