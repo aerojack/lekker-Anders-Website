@@ -260,8 +260,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 				</div>
 			</div>
 		</div>
-	</div>
-</div>
+
 <!------------------------------------Section 5------------------------------------>
 		<div id="section5" class="section5"></div>
 <!------------------------------------Section 6------------------------------------>
