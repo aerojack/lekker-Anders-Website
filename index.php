@@ -405,11 +405,11 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 
       <!-------------------section6overons----------------->
 			<div class="section6overons">
-        <img src= "images/moestuin.jpg"style="width: 30%; height auto; float: center; ">
+        <img src= "images/moestuin.jpg"style="width: 60%; height auto; float: center; ">
       </br>
-        <img src= "images/groente dip.jpg"style="width: 30%; height auto; float: center; ">
+        <img src= "images/groente dip.jpg"style="width: 60%; height auto; float: center; ">
       </br>
-        <img src= "images/saladbar.jpg"style="width: 30%; height auto; float: center; ">
+        <img src= "images/saladbar.jpg"style="width: 60%; height auto; float: center; ">
 
 
 			</div>
