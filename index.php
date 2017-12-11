@@ -46,7 +46,7 @@
      			<li><a href="#onsaanbod" title="onsaanbod" onclick="highlite(this);"> <i class="navbarlogo fa fa-cutlery" aria-hidden="true"></i> </a></li>
      			<li><a href="#overons" title="Over ons" onclick="highlite(this);"> <i class="navbarlogo fa fa-users" aria-hidden="true"></i> </a></li>
      			<li><a href="#contact" title="Contact" onclick="highlite(this);">  <i class="navbarlogo fa fa-address-book" aria-hidden="true"></i>  </a></li>
-          <li><a href="#pagina6" title="pagina6" onclick="highlite(this);">  <i class="navbarlogo fa fa-calendar" aria-hidden="true"></i>  </a></li>
+          <li><a href="#agenda" title="agenda" onclick="highlite(this);">  <i class="navbarlogo fa fa-calendar" aria-hidden="true"></i>  </a></li>
      		</ul>
      	</nav>
 
@@ -56,10 +56,11 @@
 	<div id="barista" class="barista">
 <!------------------------------------Section1------------------------------------->
 <div id="section1b" class="section1b">
+
 </div>
 <!------------------------------------Section2------------------------------------->
 <div id="section2b" class="section2b">
-<img src="images/logo.png" alt="Logo" style="width: 30%; height: auto; ">
+<img src="images/logo.png" alt="Logo" style="width: 25%; height: auto; ">
 </div>
 <!------------------------------------Section3------------------------------------->
 <div id="section3b" class="section3b">
@@ -90,11 +91,11 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 <!------------------------------------section6------------------------------------>
 <div id="section6b" class="section6b">
 
-  <img src= "images/Barista.jpg"style="width: 80%; height auto; float: center; ">
+  <img src= "images/koffie.jpg"style="width: 90%;  ">
    </br>
- <img src= "images/Barista2.jpg"style="width: 80%; height auto; float: center; ">
+ <img src= "images/Barista2.jpg"style="width: 90%;  ">
    </br>
- <img src= "images/high thea.jpg"style="width: 80%; height auto; float: center; ">
+ <img src= "images/verse thee.jpg"style="width: 90%;  ">
 </div>
 </div>
 
@@ -195,15 +196,15 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 <a href="https://www.facebook.com/slktchn/" target="_blank">SoulKitchen</a>
 </p></div>
 				</div>
-</div>
 
 
-			</div>
+
+
       <div id="section23koks" class="section23koks"></div>
       <div id="section24koks" class="section24koks"></div>
 
-      </div>
-    </div>
+  </div>
+  </div>
 
 
 
@@ -215,8 +216,9 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 <!------------------------------------Section 1------------------------------------>
 
 		<div id="section1" class="section1">
-      <div id="axis" class="one">
 
+
+      <div id="axis" class="one">
         <img class="object van" id="object" src="images/sublogo cg.png" />
 
     </div>
@@ -236,33 +238,42 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 		<div id="section3" class="section3"></div>
 
 <!------------------------------------Section 4------------------------------------>
-<div id="section4" class="section4">
-	<div id="carouselachtergrond" class="carouselachtergrond">
-		<div id="carousel">
-			<a href="#home"> <img src="images-carousel/carousel1.jpg" id="carousel1"  /> </a>
-			<a href="#barista"> <img src="images-carousel/carousel2.jpg" id="carousel2"  /> </a>
-			<a href="#pagina6"> <img src="images-carousel/carousel3.jpg" id="carousel3"  /> </a>
-			<a href="#koks"> <img src="images-carousel/carousel4.jpg" id="carousel4"  /> </a>
-			<a href="#onsaanbod"> <img src="images-carousel/carousel5.jpg" id="carousel5"  /> </a>
-			<a href="#contact"> <img src="images-carousel/carousel6.jpg" id="carousel6"  /> </a>
-			<a href="#contact"> <img src="images-carousel/carousel7.jpg" id="carousel7"  /> </a>
-			<a href="#overons"> <img src="images-carousel/carousel8.jpg" id="carousel8"  /> </a>
+		<div id="section4" class="section4">
+			<div id="carouselachtergrond" class="carouselachtergrond inset">
+				<div id="carousel">
+					<a href="#contact"> <img src="images-carousel/carousel1.jpg" id="carousel1"  /> </a>
+					<a href="#barista"> <img src="images-carousel/carousel2.jpg" id="carousel2"  /> </a>
+					<a href="#agenda"> <img src="images-carousel/carousel3.jpg" id="carousel3"  /> </a>
+					<a href="#koks"> <img src="images-carousel/carousel4.jpg" id="carousel4"  /> </a>
+					<a href="#onsaanbod"> <img src="images-carousel/carousel5.jpg" id="carousel5"  /> </a>
+					<a href="#contact"> <img src="images-carousel/carousel6.jpg" id="carousel6"  /> </a>
+					<a href="#contact"> <img src="images-carousel/carousel7.jpg" id="carousel7"  /> </a>
+					<a href="#onverons"> <img src="images-carousel/carousel8.jpg" id="carousel8"  /> </a>
+          <a href="#contact"> <img src="images-carousel/carousel9.jpg" id="carousel9"  /> </a>
+          <a href="#barista"> <img src="images-carousel/carousel10.jpg" id="carousel10"  /> </a>
+          <a href="#agenda"> <img src="images-carousel/carousel11.jpg" id="carousel11"  /> </a>
+          <a href="#koks"> <img src="images-carousel/carousel12.jpg" id="carousel12"  /> </a>
+          <a href="#onsaanbod"> <img src="images-carousel/carousel13.jpg" id="carousel13"  /> </a>
+          <a href="#contact"> <img src="images-carousel/carousel14.jpg" id="carousel14"  /> </a>
+          <a href="#overons"> <img src="images-carousel/carousel15.jpg" id="carousel15"  /> </a>
+
+				</div>
+			</div>
 		</div>
-	</div>
-</div>
+
 <!------------------------------------Section 5------------------------------------>
 		<div id="section5" class="section5"></div>
 <!------------------------------------Section 6------------------------------------>
 		<div id="section6" class="section6"></div>
 <!------------------------------------Section 7------------------------------------>
 		<div id="section7" class="section7">
-      <div id="calendar">
+      <div id="calendar" class="inset2">
           <p id="calendar-dag"></p>
           <p id="calendar-datum"></p>
           <p id="calendar-month-year"></p>
       </div>
 
-      <div class="event" id="event">
+      <div class="event inset1" id="event">
         <?php
 
       //    echo ($result);
@@ -274,118 +285,141 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 	</div>
 
 </div>
-	<div id="pagina6" class="pagina6">
-    <div id="calendarpagina6" class="calendarpagina6">
+	<div id="agenda" class="agenda">
+    <div id="calendaragenda" class="calendaragenda">
     </div>
 
   </div>
 	<!-------------- third row -------------->
 	<div id="onsaanbod" class="onsaanbod">
 		<div class="onsaanbodgrid">
-			<div class="section1onsaanbod">
-
-			</div>
+      <!-------------section1onsaanbod--------->
+			<div class="section1onsaanbod"></div>
+      <!--------------section2onsaanbods------->
 			<div class="section2onsaanbod">
-				<img src="images/logo.png" alt="Logo" style="width: 30%; height: auto; ">
-			</div>
+				<img src="images/logo.png" class="logob" alt="Logo" style="width: 25%; height: auto; ">
+      </div>
+      <!------------section3onsaanbod------------>
 			<div class="section3onsaanbod">
-
 			</div>
+      <!-------------section4onsaanbod----------->
 			<div class="section4onsaanbod">
-
 			</div>
-			<div class="section5onsaanbod">
-			<h3>Ontbijt</h3>
+      <!--------------section5onsaanbid---------->
+			<div class="section5onsaanbod inset">
 
-				<p>Kom bij Lekker Anders ontbijten of neem je ontbijt mee voor onderweg.<br>
-				Wij verzorgen voor jou een compleet ontbijt.</p>
+<h3 class="h3o">Ontbijt</h3>
 
-			<h3>Lunch</h3>
-			<p>
-			Lunch betekent bij ons dat je kunt kiezen uit een hoeveelheid aan gerechten.<br>
-			Heerlijk belegde broodjes, mooie salades, soep of een broodje uitsmijter.<br>
-			De keuze is aan jou.<br>
-			Daarnaast bieden we elke dag van de week iets speciaals aan.<br>
+				<p class="p2">Kom bij Lekker en Anders ontbijten of neem uw ontbijt mee voor onderweg.
+				Wij verzorgen voor u een compleet ontbijt.</p>
+
+<h3 class="h3o">Lunch</h3>
+
+			<p class="p2">
+			Lunch betekent bij ons dat u kunt kiezen uit een hoeveelheid aan gerechten.
+			Heerlijk belegde broodjes, mooie salades, soep of een broodje uitsmijter.
+			De keuze is aan u.
+			Daarnaast bieden we elke dag van de week iets speciaals aan.
 			</p>
 
-			<h3>Onze lunch specials:</h3>
-			<p>
-			Maandag: Mediterrane lunchgerechten.<br>
-			Dinsdag: Er staan heerlijke speciaal-soepen op het menu.<br>
-			Woensdag: Pannenkoeken!<br>
-			Donderdag: Tosti Thursday – gevarieerde keuze uit diverse tosti’s.<br>
-			Vrijdag: Vegetarische lunchgerechten.<br>
-			Zaterdag: Scandinavische lunchgerechten.<br>
-			Zondag: Saladebar en visschotels, broodjes en een fijn glaasje wijn.
-			</p>
+			<h3 class="h3o">Onze lunch specials:</h3>
 
-			<h3>Het aanschuifrestaurant</h3>
-			<p>Elke vrijdag-, zaterdag-, of zondagavond is er een andere kok voor je aan het werk.<br>
-			De ene keer is dat een gerenommeerde koks of cateraar, de andere keer een getalenteerde beginner.</p>
-			<p>Je kunt op deze dagen aanschuiven van 18:00 uur tot 23:00 uur.</p>
-			<p>Wij willen je dan ook graag informeren over deze mensen, die met zoveel passie koken. <br>
-			Zie onze agenda voor aankomende avonden en andere bijzonderheden en bekijk ook <br>
-			onze webpagina met informatie over de gastoptredens door koks en cateraars.</p>
-
+<p class="p2">
+			Maandag: Mediterrane lunchgerechten.
+			Dinsdag: Er staan een paar heerlijke speciaal-soepen op het menu.
+			Woensdag: Pannenkoeken! Van over de hele wereld.
+    </p>
 
 			</div>
 
-			<div class="section6onsaanbod">
-				<img src= "images-lunch/etagere.jpg"style="width: 50%; height auto; float: center; ">
+      <!-----------section6onsaanbod---------------->
+			<div class="section6onsaanbod inset3">
+
+
+<p class="p3">    Donderdag: Tosti Thursday – gevarieerde keuze uit diverse tosti’s.
+  			Vrijdag: Vegetarische lunchgerechten.
+  			Zaterdag: Scandinavische lunchgerechten.
+  			Zondag: Saladebar en visschotels, broodjes en een fijn glaasje wijn.
+  			</p>
+
+  			<h3 class="h3o">Het aanschuifrestaurant</h3>
+
+  <p class="p2">Elke donderdag-, vrijdag-, zaterdag-, of zondagavond is er een andere kok voor u aan het werk.
+  	  De ene keer is dat een gerenommeerde koks of cateraar, de andere keer een getalenteerde beginner.</p>
+
+    </br>
+  <p class="p2">U kunt op deze dagen aanschuiven van 18:00 uur tot 23:00 uur.</p>
+    </br>
+
+  <p class="p2">Wij willen u dan ook graag informeren over deze mensen, die met passie voor u koken.
+  	Zie voor onze planning van aankomende avonden en andere bijzonderheden
+  	onze webpagina met informatie over de gastoptredens door koks en cateraars.</p>
+
+      </div>
+      <div class="section7onsaanbod">
+				<img src= "images-lunch/etagere.jpg"style="width: 60%; height auto; float: center; ">
 				</br>
-				<img src= "images-lunch/Cooking.png"style="width: 50%; height auto; float: center; ">
+				<img src= "images-lunch/Cooking.png"style="width: 60%; height auto; float: center; ">
 				</br>
-				<img src= "images-lunch/tavel.jpg"style="width: 50%; height auto; float: center; ">
+				<img src= "images-lunch/tavel.jpg"style="width: 60%; height auto; float: center; ">
 			</div>
-			<div class="section7onsaanbod">
 
-			</div>
 		</div>
 
 	</div>
-
-
-
+<!--------------------pagina8------------------->
 	<div id="pagina8" class="pagina8"></div>
+  <!------------------overons-------------------->
 	<div id="overons" class="overons">
 		<div class="overonsgrid">
+      <!---------------section1overons----------->
 			<div class="section1overons">
-
 			</div>
+      <!---------------section2overons------------>
 			<div class="section2overons">
-
+<img src="images/logo.png" class="logoons" alt="Logo" style="width: 30%; height: auto; ">
 			</div>
+      <!-----------------section3overons----------->
 			<div class="section3overons">
-
 			</div>
+  <!---------------------section4overons-------------->
 			<div class="section4overons">
+			</div>
+
+      <!-----------------section5overons-------------->
+			<div class="section5overons inset">
+				<h3 class="h3over">Over Lekker Anders</h3>
+
+        <p>Lekker Anders is ontstaan uit liefde voor lekker eten en drinken, <br>
+        nieuwsgierigheid naar mensen en drang naar vernieuwing.<br>
+        Alya Assen bracht verschillende ideeën en mensen bij elkaar<br>
+        en uit deze mix is Lekker Anders ontstaan.
+        <br>
+        Het team bestaat uit Piet Puk, Katrien Vogels, Klaas Baard en Alya Assen.<br>
+        Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.
+        <br>
+        Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde<br>
+        ‘anders dan andere’ producten maakt.
+        <br>
+        Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf: <br>
+        wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje?
+        <br>
+        We ontmoeten u graag snel!</p>
+<img src= "images/bank.jpg" class="bank" style="width: 50%; height auto; float: center; ">
 
 			</div>
-				<div class="section5overons">
-					<h3> Over Lekker Anders </h3>
-				<p>Lekker Anders is ontstaan uit liefde voor lekker eten en drinken, <br>
-				nieuwsgierigheid naar mensen en drang naar vernieuwing.</p>
-				<br>
-				<p>Alya Assen bracht verschillende ideeën en mensen bij elkaar<br>
-				en uit deze mix is Lekker Anders ontstaan.</p>
-				<br>
-				</p>Het team bestaat uit Piet Puk, Katrien Vogels, Klaas Baard en Alya Assen.<br>
-				Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.</p>
-				<br>
-				<p>Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde<br>
-				‘anders dan andere’ producten maakt.<p>
-				<br>
-				<p>Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf: <br>
-				wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje?</p>
-				<br>
-				<p>We ontmoeten u graag snel!</p>
-			</div>
+
+      <!-------------------section6overons----------------->
 			<div class="section6overons">
+        <img src= "images/moestuin.jpg"style="width: 60%; height auto; float: center; ">
+      </br>
+        <img src= "images/groente dip.jpg"style="width: 60%; height auto; float: center; ">
+      </br>
+        <img src= "images/saladbar.jpg"style="width: 60%; height auto; float: center; ">
+
 
 			</div>
-			<div class="section7overons">
 
-			</div>
 		</div>
 	</div>
 
