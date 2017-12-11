@@ -46,6 +46,7 @@
      			<li><a href="#onsaanbod" title="onsaanbod" onclick="highlite(this);"> <i class="navbarlogo fa fa-cutlery" aria-hidden="true"></i> </a></li>
      			<li><a href="#overons" title="Over ons" onclick="highlite(this);"> <i class="navbarlogo fa fa-users" aria-hidden="true"></i> </a></li>
      			<li><a href="#contact" title="Contact" onclick="highlite(this);">  <i class="navbarlogo fa fa-address-book" aria-hidden="true"></i>  </a></li>
+          <li><a href="#agenda" title="agenda" onclick="highlite(this);">  <i class="navbarlogo fa fa-calendar" aria-hidden="true"></i>  </a></li>
      		</ul>
      	</nav>
 
@@ -71,15 +72,13 @@
 <div id="section5b" class="section5b">
   <img src= "images/Barista1.png"style="width: 90%; height auto; float: center; ">
 	<h3> Onze Barista’s & ons High Tea arrangement</h3><br>
-
-<p>Bij ons kunt u terecht voor een goede bak koffie en een vers kopje thee.</p>
-
+<p>Bij ons kun je terecht voor een goede bak koffie en een vers kopje thee.</p>
 <p>Omdat koffie zo' n lekker product is hebben we een breed aanbod.<br>
-Bij Lekker en Anders  staan ervaren Baristas achter de toog.<br>
-Zij draaien hun hand niet om voor uw Espresso, Capuccino, Latte of Mocha.<br>
-Ook voor uw thee genoegens hebben we een fantastisch aanbod.<br>
+Bij Lekker Anders  staan ervaren Barista's achter de toog.<br>
+Zij draaien hun hand niet om voor jou een Espresso, Cappuccino, Latte of Mocha te maken.<br>
+Ook voor je thee genoegens hebben we een fantastisch aanbod.<br>
 Kom langs om een aantal varianten te proeven.<br>
-U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned High Tea arrangement. </p>
+Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned High Tea arrangement. </p>
 
 
 	<div class="randjeb">
@@ -87,6 +86,7 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 
 </div>
 </div>
+
 
 <!------------------------------------section6------------------------------------>
 <div id="section6b" class="section6b">
@@ -113,26 +113,98 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
       <div id="section5koks" class="section5koks"></div>
       <div id="section6koks" class="section6koks"></div>
       <div id="section7koks" class="section7koks"></div>
-      <div id="section8koks" class="section8koks"></div>
+      <div id="section8koks" class="section8koks">
+          <span class='knopkoks'  > <br>  </span>
+          <div class='popup'>
+						<h3>Lekker Anders met Anita, Marisca, Gerda en Brenda van Chocolaterie 1912</h3>
+<p>Chocolaterie -1912- werd in februari 2006 geopend door Anita Helsen en Marisca Scholte en later aangevuld met Gerda Boers en Brenda Nieland.
+De bonbonwinkel is een begrip in- en buiten Emmen.</p>
+<p>Een kleine winkel, weliswaar maar voor een fijn product en groots in kwaliteit. Alle bonbons worden nog 'lekker ouderwets' met de hand gemaakt. Er wordt gebruik gemaakt van verse en pure ingrediënten omdat dat belangrijk is.</p>
+<p>De bonbon met munt wordt daadwerkelijk gemaakt met verse munt uit eigen tuin. Een bonbon met karamel? Dat betekent zelf suiker branden om er een heerlijke karamel van te maken om de bonbons mee te vullen.Kortom; pure liefde voor het vak, en dat proef je!</p>
+<p>Laat je verleiden op de website van:
+<a href="https://www.chocolaterie1912.nl/" target="_blank">Chocolaterie -1912-</a>
+</p> </div>
+      </div>
       <div id="section9koks" class="section9koks"></div>
-      <div id="section10koks" class="section10koks"></div>
+      <div id="section10koks" class="section10koks">
+        <span class='knopkoks1'  > <br>  </span>
+        <div class='popup1'>
+					<h3>Lekker Anders met Rene Ruiter van Tafel 16</h3>
+<p>René Ruiter is de chef van Tafel 16. Met jaren ervaring als chefkok bij diverse restaurants op sterrenniveau, weet hij precies wat er nodig is om een ingrediënt om te toveren tot een smakelijk gerecht. </p>
+<p>De natuur zijn werk laten doen, is daarbij zijn leidraad.
+Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen kiest de heerlijke ingrediënten. Dat is namelijk de basis voor een smaakvol en puur gerecht! </p>
+<p>René deelt met enthousiasme zijn kennis over de ingrediënten en gerechten met zijn gasten, waardoor ieder gerecht nog meer smaakbeleving krijgt.</p>
+<p>Tafel16 serveert op verschillende locaties bijzondere gerechten geïnspireerd door het seizoen.</p>
+<p>Bezoek René op zijn website:
+	<a href="http://tafel16.nl/" target="_blank">Tafel16</a>
+</p>
+</div>
+
+      </div>
       <div id="section11koks" class="section11koks"></div>
       <div id="section12koks" class="section12koks"></div>
       <div id="section13koks" class="section13koks"></div>
       <div id="section14koks" class="section14koks"></div>
-      <div id="section15koks" class="section15koks"></div>
+      <div id="section15koks" class="section15koks">
+
+        <span class='knopkoks2'  > <br>   </span>
+        <div class='popup2'>
+					<h3>Lekker Anders met Leon, Eugenie, Harry, Johan en Andre van De Woeste Grond</h3>
+	<p>Bij ‘De Woeste Grond’ staan twee mensen aan het roer: slager Léon Stam en marketing expert Eugénie Benda. Daarnaast zijn Harry, Johan en Andre actief in het bedrijf.</p>
+	<p>Zij vinden het belangrijk dat van A tot Z bekend is welke weg een stuk vlees aflegt. Ze houden de keten klein en hebben alles in eigen beheer. </p>
+	<p>Twee principes staan bij De Woeste Grond hoog in het vaandel: gooi zo min mogelijk van het dier weg en toevoegingen (zoals bijvoorbeeld E-nummers) hebben geen plaats binnen het bedrijf.  Gewoon, omdat ieder stuk vlees het waard is om van te genieten en de pure smaak van vlees al genot is voor de smaakpapillen.</p>
+	<p>Kijk maar eens nieuwsgierig rond:
+		<a href="https://www.facebook.com/dewoestegrond/" target="_blank">De Woeste Grond</a>
+</p>
+</div>
+
+
+      </div>
       <div id="section16koks" class="section16koks"></div>
-      <div id="section17koks" class="section17koks"></div>
+      <div id="section17koks" class="section17koks">
+        <span class='knopkoks3'  > <br>   </span>
+        <div class='popup3'>
+					<h3>Lekker Anders met Kevin Mooibroek van Amsterdam Good Cookies</h3>
+<p>Kevin Mooibroek, de eigenaar van Amsterdam Good Cookies, woonde in het Latijns-Amerikaanse land Costa Rica. </p>
+<p>Hij gaf regelmatig stroopwafels weg als relatiegeschenk aan Costaricanen en Amerikanen. Deze stroopwafels werden enorm enthousiast ontvangen. </p>
+<p>Kevin kreeg daarom steeds vaker de vraag waar deze heerlijke koeken te krijgen waren. Zo kwam Kevin op het idee om een eigen stroopwafelmerk te beginnen. Dit was het begin van Amsterdam! Good Cookies.</p>
+<p>Check out more good cookies:
+	<a href="http://amsterdamgoodcookies.com/nl/" target="_blank">Amsterdam! Good Cookies</a>
+	</p></div>
+      </div>
       <div id="section18koks" class="section18koks"></div>
       <div id="section19koks" class="section19koks"></div>
-      <div id="section20koks" class="section20koks"></div>
+      <div id="section20koks" class="section20koks">
+				<span class='knopkoks4'  > <br>   </span>
+				<div class='popup4'>
+					<h3>Lekker Anders met Lena van LeVen</h3>
+<p>Lena heeft een uitmuntend gevoel voor balans. Ze maakt de meest prachtige vegetarische gerechten. Smaakvolle creaties zijn haar specialiteit.</p>
+<p>Lena is een graag geziene gastoptreder bij Lekker Anders, het verdient dan ook aanbeveling dat je tijdig reserveert wanneer je van haar kookkunsten wilt genieten.</p>
+<p>Je kunt haar creaties nader bestuderen en haar eventueel inschakelen om voor je te koken via haar Facebook-pagina:
+<a href="https://www.facebook.com/levenlifestyle/" target="_blank">LeVen LevenLifestyle</a>
+</p></div>
+				</div>
+
       <div id="section21koks" class="section21koks"></div>
-      <div id="section22koks" class="section22koks"></div>
+      <div id="section22koks" class="section22koks">
+				<span class='knopkoks5'  > <br>   </span>
+				<div class='popup5'>
+					<h3>Lekker Anders met SoulKitchen</h3>
+<p>SoulKitchen is van alle markten thuis en serveert gerechten uit de internationale keuken. </p>
+<p>Je kunt net zo makkelijk proeven van heerlijke baklava als van subtiele makarons. SoulKitchen levert allerlei lekkernijen voor je feestjes en partijen en creëert bijvoorbeeld de meest feestelijke taarten en smakelijkste pizza’s.</p>
+<p>Kijk maar eens rond op haar Facebookpagina:
+<a href="https://www.facebook.com/slktchn/" target="_blank">SoulKitchen</a>
+</p></div>
+				</div>
+
+
+
+
       <div id="section23koks" class="section23koks"></div>
       <div id="section24koks" class="section24koks"></div>
 
-      </div>
-    </div>
+  </div>
+  </div>
 
 
 
@@ -188,6 +260,8 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 				</div>
 			</div>
 		</div>
+	</div>
+</div>
 <!------------------------------------Section 5------------------------------------>
 		<div id="section5" class="section5"></div>
 <!------------------------------------Section 6------------------------------------>
@@ -212,7 +286,11 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 	</div>
 
 </div>
-	<div id="pagina6" class="pagina6"></div>
+	<div id="agenda" class="agenda">
+    <div id="calendaragenda" class="calendaragenda">
+    </div>
+
+  </div>
 	<!-------------- third row -------------->
 	<div id="onsaanbod" class="onsaanbod">
 		<div class="onsaanbodgrid">
@@ -348,7 +426,7 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 		<div class="grid-contact">
 			<div class="sectioncontact1">
 				<div class="container">
-					<h1>Reservering</h1>
+					<h1>Reserveren</h1>
 						<div class="randje">
 							<div class="contactveld">
 
@@ -410,22 +488,15 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 					<h1>Contact</h1>
 						<div class="randje">
 							<div class="contactveld">
-
 								<form  action="action_page_contact.php" method="post">
 <br>
 									<label for="firstname"> </label>
 									<input type="text" id="firstname" name="firstname" placeholder="Uw naam">
-
 									<label for="email">  </label>
 									<input type="text" id="email" name="email" placeholder="Uw E-mail">
-
-
-
-
 <br>
 									<label for="subject"> <p1>Uw bericht</p1> </label>
 									<textarea id="subject" name="subject" placeholder="Uw bericht" style="height:130px"></textarea>
-
 									<input type="submit" value="Verzend">                      </input>
 								</form>
 								<br>
@@ -433,22 +504,11 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 									Baander 3 <br>
 									7811 HH Emmen <br>
 								</p1>
-
 							</div>
 						</div>
 	<br>
 				</div>
-
-
-
-
-
-
 			</div>
-
-
-
-
 
 	<div id="pagina12" class="pagina12"></div>
 
@@ -467,6 +527,7 @@ U kunt bij ons ook een reservering maken om te genieten van een Old Fashioned Hi
 
 <script type="text/javascript" src="carousel.js"></script>
 <script type="text/javascript" src="navbar highlight.js"></script>
+<script type="text/javascript" src="facebookeventsjavascript.js"></script>
 
 
 </body>
