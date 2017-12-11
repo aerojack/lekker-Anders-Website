@@ -553,9 +553,9 @@ text-align: center;
 
 }
 .h3over {
-	margin-top: -2%;
+	margin-top: -4%;
 padding-top: 5%;
-padding-bottom: 5%;
+padding-bottom: 1%;
 
 }
 p{
@@ -583,7 +583,7 @@ margin: 2%;
 }
 
 .bank{
-  margin-top: 1%;
+  /*margin-top: 1%;*/
 	border-radius: 25%;
 	padding-top: 1%;
 	padding-right: 1%;

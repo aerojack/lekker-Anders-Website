@@ -242,20 +242,20 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 			<div id="carouselachtergrond" class="carouselachtergrond inset">
 				<div id="carousel">
 					<a href="#contact"> <img src="images-carousel/carousel1.jpg" id="carousel1"  /> </a>
-					<a href="#contact"> <img src="images-carousel/carousel2.jpg" id="carousel2"  /> </a>
-					<a href="#contact"> <img src="images-carousel/carousel3.jpg" id="carousel3"  /> </a>
-					<a href="#contact"> <img src="images-carousel/carousel4.jpg" id="carousel4"  /> </a>
-					<a href="#contact"> <img src="images-carousel/carousel5.jpg" id="carousel5"  /> </a>
+					<a href="#barista"> <img src="images-carousel/carousel2.jpg" id="carousel2"  /> </a>
+					<a href="#agenda"> <img src="images-carousel/carousel3.jpg" id="carousel3"  /> </a>
+					<a href="#koks"> <img src="images-carousel/carousel4.jpg" id="carousel4"  /> </a>
+					<a href="#onsaanbod"> <img src="images-carousel/carousel5.jpg" id="carousel5"  /> </a>
 					<a href="#contact"> <img src="images-carousel/carousel6.jpg" id="carousel6"  /> </a>
 					<a href="#contact"> <img src="images-carousel/carousel7.jpg" id="carousel7"  /> </a>
-					<a href="#contact"> <img src="images-carousel/carousel8.jpg" id="carousel8"  /> </a>
+					<a href="#onverons"> <img src="images-carousel/carousel8.jpg" id="carousel8"  /> </a>
           <a href="#contact"> <img src="images-carousel/carousel9.jpg" id="carousel9"  /> </a>
-          <a href="#contact"> <img src="images-carousel/carousel10.jpg" id="carousel10"  /> </a>
-          <a href="#contact"> <img src="images-carousel/carousel11.jpg" id="carousel11"  /> </a>
-          <a href="#contact"> <img src="images-carousel/carousel12.jpg" id="carousel12"  /> </a>
-          <a href="#contact"> <img src="images-carousel/carousel13.jpg" id="carousel13"  /> </a>
+          <a href="#barista"> <img src="images-carousel/carousel10.jpg" id="carousel10"  /> </a>
+          <a href="#agenda"> <img src="images-carousel/carousel11.jpg" id="carousel11"  /> </a>
+          <a href="#koks"> <img src="images-carousel/carousel12.jpg" id="carousel12"  /> </a>
+          <a href="#onsaanbod"> <img src="images-carousel/carousel13.jpg" id="carousel13"  /> </a>
           <a href="#contact"> <img src="images-carousel/carousel14.jpg" id="carousel14"  /> </a>
-          <a href="#contact"> <img src="images-carousel/carousel15.jpg" id="carousel15"  /> </a>
+          <a href="#overons"> <img src="images-carousel/carousel15.jpg" id="carousel15"  /> </a>
 
 				</div>
 			</div>
@@ -390,15 +390,21 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 			<div class="section5overons inset">
 				<h3 class="h3over">Over Lekker Anders</h3>
 
-<p> Lekker Anders is ontstaan uit liefde voor lekker eten en drinken,
-  nieuwsgierigheid naar mensen en drang naar vernieuwing.
-  Alya Assen bracht verschillende ideeën en mensen bij elkaar en uit deze mix is Lekker Anders ontstaan.
-  Het team bestaat nu uit pietje puk, katrientje, klaasje en Alya.
-   Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.
-   Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde zijn ‘anders dan andere’ producten maakt.
-   Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf:
-   wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje? We ontmoeten u graag snel!
-</p>
+        <p>Lekker Anders is ontstaan uit liefde voor lekker eten en drinken, <br>
+        nieuwsgierigheid naar mensen en drang naar vernieuwing.<br>
+        Alya Assen bracht verschillende ideeën en mensen bij elkaar<br>
+        en uit deze mix is Lekker Anders ontstaan.
+        <br>
+        Het team bestaat uit Piet Puk, Katrien Vogels, Klaas Baard en Alya Assen.<br>
+        Samen regelen zij alle randvoorwaarden en zijn de vaste basis in de organisatie.
+        <br>
+        Lekker Anders kan daardoor het podium zijn voor iedereen die met liefde<br>
+        ‘anders dan andere’ producten maakt.
+        <br>
+        Maar Lekker Anders gaat vooral over mensen – want zeg nou zelf: <br>
+        wat is fijner dat een mooie ontmoeting onder het genot van een lekker hapje en drankje?
+        <br>
+        We ontmoeten u graag snel!</p>
 <img src= "images/bank.jpg" class="bank" style="width: 50%; height auto; float: center; ">
 
 			</div>
