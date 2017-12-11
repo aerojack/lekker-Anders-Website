@@ -106,7 +106,7 @@ nav ul li a /* Tekst navagatie bar */
 	grid-template-rows: 100vh 100vh 100vh 100vh;
 	grid-template-areas:
 	"barista pagina2 koks"
-	"pagina4 home pagina6"
+	"pagina4 home agenda"
 	"onsaanbod pagina8 overons"
 	"pagina10 contact pagina12";
 /* 	grid-gap: 10px; */
@@ -621,7 +621,7 @@ input[type=submit]:hover {
 	grid-template-rows: 100vh 100vh 100vh 100vh;
 	grid-template-areas:
 	"barista pagina2 koks"
-	"pagina4 home pagina6"
+	"pagina4 home agenda"
 	"onsaanbod pagina8 overons"
 	"pagina10 contact pagina12"
  ;
@@ -1036,10 +1036,10 @@ text-align: center;
 /*^^^^^^^^^^^^^^^^^^ popup ^^^^^^^^^^^^^^^^*/
 
 
-/*------------pagina6 calendar-----------*/
-.calendarpagina6{
+/*------------agenda calendar-----------*/
+.calendaragenda{
 	margin-top: 10%;
 	margin-left: 5%;
 }
 
-/*^^^^^^^^^^^^^^^^^^ pagina6 calendar ^^^^^^^^^^^^^^^^*/
+/*^^^^^^^^^^^^^^^^^^ agenda calendar ^^^^^^^^^^^^^^^^*/

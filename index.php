@@ -46,7 +46,7 @@
      			<li><a href="#onsaanbod" title="onsaanbod" onclick="highlite(this);"> <i class="navbarlogo fa fa-cutlery" aria-hidden="true"></i> </a></li>
      			<li><a href="#overons" title="Over ons" onclick="highlite(this);"> <i class="navbarlogo fa fa-users" aria-hidden="true"></i> </a></li>
      			<li><a href="#contact" title="Contact" onclick="highlite(this);">  <i class="navbarlogo fa fa-address-book" aria-hidden="true"></i>  </a></li>
-          <li><a href="#pagina6" title="pagina6" onclick="highlite(this);">  <i class="navbarlogo fa fa-calendar" aria-hidden="true"></i>  </a></li>
+          <li><a href="#agenda" title="agenda" onclick="highlite(this);">  <i class="navbarlogo fa fa-calendar" aria-hidden="true"></i>  </a></li>
      		</ul>
      	</nav>
 
@@ -241,7 +241,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 		<div id="carousel">
 			<a href="#home"> <img src="images-carousel/carousel1.jpg" id="carousel1"  /> </a>
 			<a href="#barista"> <img src="images-carousel/carousel2.jpg" id="carousel2"  /> </a>
-			<a href="#pagina6"> <img src="images-carousel/carousel3.jpg" id="carousel3"  /> </a>
+			<a href="#agenda"> <img src="images-carousel/carousel3.jpg" id="carousel3"  /> </a>
 			<a href="#koks"> <img src="images-carousel/carousel4.jpg" id="carousel4"  /> </a>
 			<a href="#onsaanbod"> <img src="images-carousel/carousel5.jpg" id="carousel5"  /> </a>
 			<a href="#contact"> <img src="images-carousel/carousel6.jpg" id="carousel6"  /> </a>
@@ -274,8 +274,8 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 	</div>
 
 </div>
-	<div id="pagina6" class="pagina6">
-    <div id="calendarpagina6" class="calendarpagina6">
+	<div id="agenda" class="agenda">
+    <div id="calendaragenda" class="calendaragenda">
     </div>
 
   </div>
