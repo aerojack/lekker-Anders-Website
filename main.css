@@ -259,7 +259,7 @@ text-align: center;
 	text-align: center;
 	background-color: RGB(171,241,95);
 	border-radius: 25%;
-	height:67vh;
+	height:72vh;
 
 
 	-webkit-box-shadow: inset 13px -13px 26px 0px rgba(0,0,0,0.75);
@@ -445,11 +445,11 @@ text-align: center;
 
 .section5onsaanbod{
 	grid-area:section5onsaanbod;
-	padding-top: 5%;
+	/*padding-top: 5%;*/
 	padding-left: 1%;
 	padding-right:1%;
 	background-color: #abf15f;
-	height: 70vh;
+	height: 73vh;
 	border-top-left-radius: 25%;
 	border-bottom-left-radius: 25%;
 	text-align: center;
@@ -479,9 +479,9 @@ text-align: center;
 	text-align: center;
 	padding-left: 1%;
 	padding-right:1%;
-	padding-top:5%;
+	/*padding-top:5%;*/
 	background-color: #abf15f;
-	height: 70vh;
+	height: 73vh;
 	border-top-right-radius: 25%;
 	border-bottom-right-radius: 25%;
 	text-align: center;
@@ -542,13 +542,13 @@ text-align: center;
 
 .section5overons{
 	grid-area:section5overons;
-	padding-top: 5%;
+	/*padding-top: 5%;*/
 	padding-left: 1%;
 	padding-right: 1%;
 	text-align: center;
 	background-color: RGB(171,241,95);
 	border-radius: 25%;
-	height:65vh;
+	height:73vh;
 	border: 10px;
 
 }
