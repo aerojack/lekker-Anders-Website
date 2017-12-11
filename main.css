@@ -515,7 +515,7 @@ text-align: center;
 	grid-area:barista;
 
 	display: grid;
-	grid-template-columns: 10vw 60vw 30vw ;
+	grid-template-columns: 20vw 60vw 20vw ;
 	grid-template-rows: 25vh 75vh;
 	grid-template-areas:
 	"section1overons section2overons section3overons"
