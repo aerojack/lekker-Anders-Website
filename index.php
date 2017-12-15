@@ -99,6 +99,8 @@ Je kunt bij ons ook een reservering maken om te genieten van een Old Fashioned H
 </div>
 </div>
 
+
+
 <!-- Href's naar externe webpagina's in de koksgrid hebben een class in css gekregen om de url te verbergen.
 Naam van de url is een grote letter M geworden om het plaatje goed te vullen met klikbare inhoud. -->
 
@@ -107,17 +109,17 @@ Naam van de url is een grote letter M geworden om het plaatje goed te vullen met
 	<div id="koks" class="koks">
 		<div class="kokspaginagrid">
 
-      <div id="section1koks" class="section1koks"></div>
+			<div id="section1koks" class="section1koks"></div>
 			<div id="section2koks" class="section2koks"></div>
-      <div id="section3koks" class="section3koks"></div>
-      <div id="section4koks" class="section4koks"></div>
-      <div id="section5koks" class="section5koks"></div>
-      <div id="section6koks" class="section6koks"></div>
-      <div id="section7koks" class="section7koks"></div>
-      <div id="section8koks" class="section8koks">
-          <span class='knopkoks'><a href="https://www.chocolaterie1912.nl/" target="_blank" class="hide">M</a>
+			<div id="section3koks" class="section3koks"></div>
+			<div id="section4koks" class="section4koks"></div>
+			<div id="section5koks" class="section5koks"></div>
+			<div id="section6koks" class="section6koks"></div>
+			<div id="section7koks" class="section7koks"></div>
+			<div id="section8koks" class="section8koks">
+					<span class='knopkoks'><a href="https://www.chocolaterie1912.nl/" target="_blank" class="hide">M</a>
 <br></span>
-          <div class='popup'>
+					<div class='popup'>
 						<h3>Lekker Anders met Anita, Marisca, Gerda en Brenda van Chocolaterie 1912</h3>
 <p>Chocolaterie -1912- werd in februari 2006 geopend door Anita Helsen en Marisca Scholte en later aangevuld met Gerda Boers en Brenda Nieland.
 De bonbonwinkel is een begrip in- en buiten Emmen.</p>
@@ -125,12 +127,12 @@ De bonbonwinkel is een begrip in- en buiten Emmen.</p>
 <p>De bonbon met munt wordt daadwerkelijk gemaakt met verse munt uit eigen tuin. Een bonbon met karamel? Dat betekent zelf suiker branden om er een heerlijke karamel van te maken om de bonbons mee te vullen.Kortom; pure liefde voor het vak, en dat proef je!</p>
 <p>klik op de foto en laat je verleiden op de website Chocolaterie -1912-
 </p> </div>
-      </div>
-      <div id="section9koks" class="section9koks"></div>
-      <div id="section10koks" class="section10koks">
-        <span class='knopkoks1'><a href="http://tafel16.nl/" target="_blank" class="hide">M</a>
+			</div>
+			<div id="section9koks" class="section9koks"></div>
+			<div id="section10koks" class="section10koks">
+				<span class='knopkoks1'><a href="http://tafel16.nl/" target="_blank" class="hide">M</a>
  <br>  </span>
-        <div class='popup1'>
+				<div class='popup1'>
 					<h3>Lekker Anders met Rene Ruiter van Tafel 16</h3>
 <p>René Ruiter is de chef van Tafel 16. Met jaren ervaring als chefkok bij diverse restaurants op sterrenniveau, weet hij precies wat er nodig is om een ingrediënt om te toveren tot een smakelijk gerecht. </p>
 <p>De natuur zijn werk laten doen, is daarbij zijn leidraad.
@@ -141,16 +143,16 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 </p>
 </div>
 
-      </div>
-      <div id="section11koks" class="section11koks"></div>
-      <div id="section12koks" class="section12koks"></div>
-      <div id="section13koks" class="section13koks"></div>
-      <div id="section14koks" class="section14koks"></div>
-      <div id="section15koks" class="section15koks">
+			</div>
+			<div id="section11koks" class="section11koks"></div>
+			<div id="section12koks" class="section12koks"></div>
+			<div id="section13koks" class="section13koks"></div>
+			<div id="section14koks" class="section14koks"></div>
+			<div id="section15koks" class="section15koks">
 
-        <span class='knopkoks2'><a href="https://www.facebook.com/dewoestegrond/" target="_blank" class="hide">M</a>
+				<span class='knopkoks2'><a href="https://www.facebook.com/dewoestegrond/" target="_blank" class="hide">M</a>
 <br></span>
-        <div class='popup2'>
+				<div class='popup2'>
 					<h3>Lekker Anders met Leon, Eugenie, Harry, Johan en Andre van De Woeste Grond</h3>
 	<p>Bij ‘De Woeste Grond’ staan twee mensen aan het roer: slager Léon Stam en marketing expert Eugénie Benda. Daarnaast zijn Harry, Johan en Andre actief in het bedrijf.</p>
 	<p>Zij vinden het belangrijk dat van A tot Z bekend is welke weg een stuk vlees aflegt. Ze houden de keten klein en hebben alles in eigen beheer. </p>
@@ -160,22 +162,22 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 </div>
 
 
-      </div>
-      <div id="section16koks" class="section16koks"></div>
-      <div id="section17koks" class="section17koks">
-        <span class='knopkoks3'><a href="http://amsterdamgoodcookies.com/nl/" target="_blank" class="hide">M</a>
+			</div>
+			<div id="section16koks" class="section16koks"></div>
+			<div id="section17koks" class="section17koks">
+				<span class='knopkoks3'><a href="http://amsterdamgoodcookies.com/nl/" target="_blank" class="hide">M</a>
  <br>   </span>
-        <div class='popup3'>
+				<div class='popup3'>
 					<h3>Lekker Anders met Kevin Mooibroek van Amsterdam Good Cookies</h3>
 <p>Kevin Mooibroek, de eigenaar van Amsterdam Good Cookies, woonde in het Latijns-Amerikaanse land Costa Rica. </p>
 <p>Hij gaf regelmatig stroopwafels weg als relatiegeschenk aan Costaricanen en Amerikanen. Deze stroopwafels werden enorm enthousiast ontvangen. </p>
 <p>Kevin kreeg daarom steeds vaker de vraag waar deze heerlijke koeken te krijgen waren. Zo kwam Kevin op het idee om een eigen stroopwafelmerk te beginnen. Dit was het begin van Amsterdam! Good Cookies.</p>
 <p>Click the Pic and check out the website fot more good cookies:
 	</p></div>
-      </div>
-      <div id="section18koks" class="section18koks"></div>
-      <div id="section19koks" class="section19koks"></div>
-      <div id="section20koks" class="section20koks">
+			</div>
+			<div id="section18koks" class="section18koks"></div>
+			<div id="section19koks" class="section19koks"></div>
+			<div id="section20koks" class="section20koks">
 				<span class='knopkoks4'><a href="https://www.facebook.com/levenlifestyle/" target="_blank" class="hide">M</a>
  <br></span>
 				<div class='popup4'>
@@ -186,8 +188,8 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 </p></div>
 				</div>
 
-      <div id="section21koks" class="section21koks"></div>
-      <div id="section22koks" class="section22koks">
+			<div id="section21koks" class="section21koks"></div>
+			<div id="section22koks" class="section22koks">
 				<span class='knopkoks5'><a href="https://www.facebook.com/slktchn/" target="_blank" class="hide">M</a>
 
  <br></span>
@@ -202,15 +204,12 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 
 
 
-      <div id="section23koks" class="section23koks"></div>
-      <div id="section24koks" class="section24koks"></div>
+			<div id="section23koks" class="section23koks"></div>
+			<div id="section24koks" class="section24koks"></div>
 
-  </div>
-  </div>
-
-
-
-	<!-------------- second row -------------->
+	</div>
+	</div>
+<!-------------- second row -------------->
 	<div id="pagina4" class="pagina4"></div>
 	<div id="home" class="home">
 
@@ -444,7 +443,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 
 									<label for="email">  </label>
 									<input type="text" id="email" name="email" placeholder="Uw E-mail">
-									Aantal personen
+
 <br>
 									<select name="maand"></option>
 										<option value="aantal personen">aantal personen</option>
@@ -462,8 +461,8 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 										<option value="12 personen">12 personen</option>
 									</select>
 <br>
-									Kies uw tijd
 <br>
+
 									<select name="tijd">
 										<option value="Selecteer tijd">Selecteer tijd</option>
 										<option value="15:00-16:00">15:00-16:00</option>
@@ -474,12 +473,12 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 										<option value="22:00-23:00">22:00-23:00</option>
 									</select>
 <br>
-									Datum
+
 <br>
 									<input id="maand" name="maand" type="date" placeholder="maand">
 <br>
-									<label for="subject"> <p1>Bijzonderheden</p1> </label>
-									<textarea id="subject" name="subject" placeholder="Bijzonderheden" style="height:130px"></textarea>
+									<label for="subject"> <p1></p1> </label>
+									<textarea id="subject" name="subject" placeholder="Bijzonderheden" /*style="height:130px"*/></textarea>
 
 									<input type="submit" value="Verzend">                      </input>
 								</form>
@@ -503,7 +502,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 									<input type="text" id="email" name="email" placeholder="Uw E-mail">
 <br>
 									<label for="subject"> <p1>Uw bericht</p1> </label>
-									<textarea id="subject" name="subject" placeholder="Uw bericht" style="height:130px"></textarea>
+									<textarea id="subject" name="subject" placeholder="Uw bericht" ></textarea>
 									<input type="submit" value="Verzend">                      </input>
 								</form>
 								<br>
@@ -517,12 +516,15 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 				</div>
 			</div>
 
-	<div id="pagina12" class="pagina12"></div>
 
+<div id="sectioncontact3" class="sectioncontact3"></div>
 
 
 	</div>
+
+
 </div>
+<div id="pagina12" class="pagina12"></div>
 </div>
 
 <script type="text/javascript" src="calendar.js"></script>

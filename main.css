@@ -631,9 +631,9 @@ margin: 2%;
 .grid-contact {
 	display: grid;
 	grid-template-columns: 50vw 50vw;
-	grid-template-rows: 100vh 100vh;
+	grid-template-rows: 25vh 75vh;
 	grid-template-areas:
-
+	"sectioncontact3 sectioncontact3"
 	"sectioncontact1 sectioncontact2"
 
 
@@ -650,6 +650,9 @@ margin: 2%;
 	grid-area:sectioncontact2;
 	padding-left: 5%;
 	padding-right:10%;
+}
+.sectioncontact3{
+	grid-area:sectioncontact3;
 }
 
 
@@ -695,8 +698,8 @@ input[type=submit]:hover {
 	 background:#abf15f;
 	padding-left: 20%;
 	padding-right: 20%;
-	margin-top: 5%;
-	min-height: 90vh;
+	/* margin-top: 5%; */
+	 min-height: 71vh;
 
 }
 
@@ -705,7 +708,7 @@ input[type=submit]:hover {
     border-radius: 10px;
 	margin-right: -25%;
 	margin-left: -25%;
-	min-height: 80vh;
+	/* min-height: 80vh; */
 }
 
 
@@ -1116,7 +1119,7 @@ text-align: center;
 }
 .knopkoks5{
  	background-image: url("https://res.cloudinary.com/dvswwojqq/image/upload/v1512650441/19756335_1910791519206842_8797305731790370561_n_ic2y75.jpg");
-	color: white;
+ 	color: white;
  	justify-content: center;
  	align-items: center;
  	display:inline-block;
@@ -1156,7 +1159,6 @@ text-align: center;
 }
 
 /*^^^^^^^^^^^^^^^^^^ agenda calendar ^^^^^^^^^^^^^^^^*/
-
 /* -------------------------- class om url in koksplaatjes te verbergen ----------------------------- */
 a.hide {
 opacity: 0;
