@@ -1116,7 +1116,7 @@ text-align: center;
 }
 .knopkoks5{
  	background-image: url("https://res.cloudinary.com/dvswwojqq/image/upload/v1512650441/19756335_1910791519206842_8797305731790370561_n_ic2y75.jpg");
- 	color: white;
+	color: white;
  	justify-content: center;
  	align-items: center;
  	display:inline-block;
@@ -1156,3 +1156,10 @@ text-align: center;
 }
 
 /*^^^^^^^^^^^^^^^^^^ agenda calendar ^^^^^^^^^^^^^^^^*/
+
+/* -------------------------- class om url in koksplaatjes te verbergen ----------------------------- */
+a.hide {
+opacity: 0;
+font-size: 166px;
+}
+/* ^^^^^^^^^^^^^^^^^^ einde sectie class om url in koksplaatjes te verbergen ^^^^^^^^^^^^ */
