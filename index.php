@@ -501,7 +501,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 									<input type="text" id="email" name="email" placeholder="Uw E-mail">
 <br>
 									<label for="subject"> <p1>Uw bericht</p1> </label>
-									<textarea id="subject" name="subject" placeholder="Uw bericht" /*style="height:130px"*/></textarea>
+									<textarea id="subject" name="subject" placeholder="Uw bericht" ></textarea>
 									<input type="submit" value="Verzend">                      </input>
 								</form>
 								<br>
@@ -516,13 +516,14 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 			</div>
 
 
-<div id="sectioncontact2" class="sectioncontact2"></div>
+<div id="sectioncontact3" class="sectioncontact3"></div>
 
 
 	</div>
 
-<div id="pagina12" class="pagina12"></div>
+
 </div>
+<div id="pagina12" class="pagina12"></div>
 </div>
 
 <script type="text/javascript" src="calendar.js"></script>
