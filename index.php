@@ -442,7 +442,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 
 									<label for="email">  </label>
 									<input type="text" id="email" name="email" placeholder="Uw E-mail">
-									Aantal personen
+
 <br>
 									<select name="maand"></option>
 										<option value="aantal personen">aantal personen</option>
@@ -460,8 +460,8 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 										<option value="12 personen">12 personen</option>
 									</select>
 <br>
-									Kies uw tijd
 <br>
+
 									<select name="tijd">
 										<option value="Selecteer tijd">Selecteer tijd</option>
 										<option value="15:00-16:00">15:00-16:00</option>
@@ -472,12 +472,12 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 										<option value="22:00-23:00">22:00-23:00</option>
 									</select>
 <br>
-									Datum
+
 <br>
 									<input id="maand" name="maand" type="date" placeholder="maand">
 <br>
-									<label for="subject"> <p1>Bijzonderheden</p1> </label>
-									<textarea id="subject" name="subject" placeholder="Bijzonderheden" style="height:130px"></textarea>
+									<label for="subject"> <p1></p1> </label>
+									<textarea id="subject" name="subject" placeholder="Bijzonderheden" /*style="height:130px"*/></textarea>
 
 									<input type="submit" value="Verzend">                      </input>
 								</form>
@@ -501,7 +501,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 									<input type="text" id="email" name="email" placeholder="Uw E-mail">
 <br>
 									<label for="subject"> <p1>Uw bericht</p1> </label>
-									<textarea id="subject" name="subject" placeholder="Uw bericht" style="height:130px"></textarea>
+									<textarea id="subject" name="subject" placeholder="Uw bericht" /*style="height:130px"*/></textarea>
 									<input type="submit" value="Verzend">                      </input>
 								</form>
 								<br>
@@ -515,11 +515,13 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 				</div>
 			</div>
 
-	<div id="pagina12" class="pagina12"></div>
 
+<div id="sectioncontact2" class="sectioncontact2"></div>
 
 
 	</div>
+
+<div id="pagina12" class="pagina12"></div>
 </div>
 </div>
 
