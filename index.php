@@ -227,7 +227,8 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 
 
       <div id="axis" class="one">
-        <img class="object van" id="object" src="images/sublogo cg.png" />
+        <img class="object van" id="object"  /> <!-- sublogo.js-->
+
 
     </div>
 
@@ -552,6 +553,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 <script type="text/javascript" src="carousel.js"></script>
 <script type="text/javascript" src="navbar highlight.js"></script>
 <script type="text/javascript" src="facebookeventsjavascript.js"></script>
+
 
 
 </body>
