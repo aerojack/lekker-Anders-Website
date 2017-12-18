@@ -10,33 +10,30 @@ Om lettertypes naar wens te ondersteunen zijn enkele (Google-fonts & Fontawesome
 ---
 ### Navigatie-bar
 
-De website bevat aan de linkerkant een navigatie-bar. De iconen hierin zijn wit wanneer ze in ongebruikte zijn. Zodra de muis-pointer erover wordt gehouden veranderd de kleur naar pastelgroen en de kleur van het icoon veranderd in flessengroen wanneer de gebruiker zich bevindt op de desbetreffende pagina. Deze navigatie-bar bevindt zich altijd aan de linkerkant op de webpagina. De iconen zijn van boven naar beneden opgesteld. Er is een kleine stukje Javascript met de naam: navbar highlight.js. Hierin staat, zoals de titel al wel aangeeft een highlight instelling.
+De website bevat aan de linkerkant een navigatie-balk. De iconen hierin zijn wit wanneer ze ongebruikt zijn. Zodra de cursor van de muis erover wordt bewogen veranderd de kleur van de iconen naar pastelgroen. De kleur van een icoon veranderd in flessengroen wanneer de gebruiker zich bevindt op de desbetreffende pagina. Deze navigatie-balk bevindt zich altijd aan de linkerkant op de webpagina. De iconen zijn van boven naar beneden geplaatst. Er is een kleine stukje Javascript met de naam: navbar highlight.js. Hierin staat, zoals de titel al wel aangeeft een highlight instelling.
 
 ---
-### Social media buttons
+### Social Media buttons
 
-Buttons voor Social Media zijn geplaatst bovenin aan de rechterzijde van de webpagina. Eveneens zijn deze van boven naar 
-beneden opgesteld. Afhankelijk welke vormen van social media er voor de ondernemening worden gebruikt kunnen de buttons hier worden
-gekoppeld aan social media pagina's. Deze buttons zullen op elke pagina 
+Knoppen voor Social Media zijn geplaatst bovenin aan de rechterzijde van de webpagina. Deze zijn eveneens van boven naar 
+beneden geplaatst. Welke vormen van social media er door de ondernemening ook worden gebruikt, hier kunnen de er worden gelinkt naar Social Media pagina's. De knoppen zullen op elke pagina zichtbaar zijn. 
 
 ---
 ### Sub-logo animatie
 
-Gekoppeld aan het logo op de homepage (en mogelijke meerdere pagina's) is een geanimeerde sub-logo. Deze start links op de 
-pagina hoogte van het tweede icon van de navigatie-bar en slide met een rotatie naar de rechterkant van het bedrijfslogo
-deze animatie word ondersteund met zijn eigen javascript file = sublogo.js in deze file is translate de afstand die het
-sublogo aflegt in percentages zodat deze op iedere scherm verhouding responsive blijft. Verder staat de deegrees voor de
-rotatie die het sublogo maakt verspreid over de duur van de afstand die die aflegt.
-(mogelijke passen we dit toe op overige pagina's en wordt deze responsive op de agenda waardoor deze veranderd voor de 
-desbetreffende aanwezige kok of cateraars)
+Gekoppeld aan het logo op de homepage (en mogelijke meerdere pagina's) is een geanimeerd sub-logo. Deze start links op de 
+pagina (ter hoogte van het tweede icon van de navigatie-balk) en beweegt zich horizontaal en draaiend naar de rechterkant van het bedrijfslogo en komt daar tot stilstand.
+De animatie heeft een eigen javascript file genaamd sublogo.js. In dit bestand staat onder andere
+- Translate - (Regelt de afstand die het sublogo aflegt. Dit gebeurt in percentages zodat op ieder scherm de verhouding responsive blijft.) 
+- Degrees - (Regelt het aantal rotaties dat het sublogo maakt om de afstand naar de rechterkant van het logo af te leggen.)
+
+Momenteel is het sub-logo aanpasbaar om per week extra aandacht voor de kok van dienst te genereren. Mogelijke passen we het sub-logo ook toe op de overige pagina's en wordt het sub-logo tevens gelinkt aan de agenda.
 
 ---
 ### Carousel Slideshow
 
-De carousel slideshow die op de home pagina wordt getoond, is gevuld met klikbare foto's die naar de juiste pagina's gaan.
-Het heeft zijn eigen javascript genaamd: carousel.js en zijn eigen css genaamd carousel.css. In de javascript file staat
-op regel 506 de autoplay beschreven met het genoemde getal 3000. dit staat voor 3 seconden. Wanneer een langzamere autoplay of 
-snellere autoplay gewenst is.
+De foto-carrousel (slideshow) die op de startpagina wordt getoond, is gevuld met klikbare foto's die, wanneer er op een foto wordt geklikt naar de juiste pagina's gaan.
+De foto-carrousel heeft zijn eigen JavaScript-bestand genaamd: carousel.js en ook zijn eigen CSS-bestand genaamd carousel.css. In het JavaScript-bestand staat op regel 506 de autoplay beschreven met het genoemde getal 3000. Dit staat voor 3 seconden voor een wisseling van foto. Wanneer een langzamere autoplay of snellere autoplay gewenst is past men het getal desgewenst aan.
 
 ---  
 ### Events
@@ -49,45 +46,39 @@ en de code achter Lekker-andersss- te kopiëren en in file_get_contents te wijzi
 https://graph.facebook.com/160487437900700/events?access_token=1633445220011171|4b55bd7e097dfb8b1523f3c50c3ef13e");
 ```
 ---
-### Home pagina
+### Home-page (Startpagina)
 
-Wanneer je de site op komt start je als aller eerst op de home pagina. dit door middel van een heel klein stukje javascript
-met de naam first page.js. Het carousel zit in het midden, de navigatie bar aan de linker kant, de social media buttons recht
-en de event-calender gadget recht onder in. De sub-logo animatie speelt gelijk eenmalig af.
+Wanneer je de website bezoekt start je  allereerst op de Home-page. Dit gebeurt door middel van een heel klein stukje javascript met de naam first page.js. Het carousel zit in het midden, de navigatie-balk aan de linkerkant, de social media knoppen aan de rechterkant van de webpagina. De evenementenkalender bevindt zich rechts onderin. De sub-logo animatie speelt direct (eenmalig).
 
 ---
 ### Barista
 
-Op deze pagina heb je een teaser voor de barista, de high tea en de lunch. de navigatie bar en social media weer op de
-aangegeven pagina's en voor de rest niets.
+Op deze pagina heb je een lokkertje voor de barista, de high tea en de lunch. De  navigatie-balk en knoppen voor de social media bevinden zich ook op deze pagina.
 
 ---
 ### Koks
 
 Alle koks en cateraars die gaan koken in het restaurant van deze ondernemer staan op deze pagina zodat alle geintreseerden
-kunnen kijken wat ongeveer het aanbod zou zijn. Het overzichtje is grafisch gemaakt door de foto's van de kok's random over de
-pagina te verspreiden. Een korte samenvatting over de desbetreffende persoon popt omhoog op het moment dat je er over heen
-hangt met de muis-pointer en de foto's zelf zijn klikbaar zodat je door gestuurd word naar de webpagina of facebook van de 
-persoon in kwestie.
+kunnen kijken wat ongeveer het aanbod is. Het overzichtje is grafisch gemaakt door de foto's van de kok's random over de
+pagina te verspreiden. Een korte samenvatting over de desbetreffende persoon komt met een pop-up omhoog op het moment dat je er met de cursor van de muis overheen bewogen wordt. De foto's met potretten of logo's van de koks of cateraars zijn klikbaar zodat je door gestuurd word naar de webpagina of facebook van de persoon of het bedrijf in kwestie.
 
 ---
 ### Ons aanbod
 
-Hier vind de bezoeker van de pagina zijn of haar informatie wat deze onderneming te bieden heeft, een teaser met de verleiding om meer
-te willen weten en bij het restaurant wilt gaan reseveren.
+Hier vindt de bezoeker van de Lekker Anders pagina informatie over wat Lekker Anders te bieden heeft, een teaser om bezoekers te verleiden meer te willen weten en bij het restaurant te willen reseveren.
 
 ---
 ### Over ons
 
-Over ons is ook een informatieve pagina waar men het verhaal achter de onderneming komt te weten.
+Over ons is een informatieve pagina waar men het verhaal achter de onderneming komt te weten.
 
 ---
 ### Reserveren en Contact
 Om reserveren en contact te gebruiken heeft deze site een database nodig. 
-In myql staat de database van de site, deze zal moeten worden geïmporteerd.
+In Mysql staat de database van de site, deze zal moeten worden geïmporteerd.
 
 ---
 ### Agenda
 
-Wanneer de bezoeker hier op komen zou hij of zij een overzicht krijgen over wat er is en gaat komen door middel van facebook.
-(Het sub-logo zou door middel van dit moeten veranderen.)
+Wanneer de bezoeker deze pagina bezoekt kan hij of zij informatie krijgen over wat er gaande is en/of gaat komen bij Lekker Anders door middel van facebook.
+(Het sub-logo zal, indien goed gekopeld, door deze informatie ook moeten veranderen.)
