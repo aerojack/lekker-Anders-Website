@@ -282,13 +282,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
           <p id="calendar-month-year"></p>
       </div>
 
-      <div class="event inset1" id="event">
-        <?php
-
-      //    echo ($result);
-         ?>
-
-      </div>
+      <div class="event inset1" id="event"></div><!-- in Sublogo.js can change the text--> 
     </div>
 
 	</div>
