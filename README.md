@@ -1,7 +1,7 @@
 # lekker anders
 
 Deze website is ontwikkeld als een startup-website voor een nieuwe onderneming. De website is op gebouwd in een raster (een zogenaamd grid).
-Om de grid te ondersteunen bij het soepel bewegen van het ene pagina onderdeel naar het andere worden een aantal
+Om de grid te ondersteunen bij het soepel bewegen van het ene pagina-onderdeel naar het andere worden een aantal
 libraries (Jquery) aangesproken. Dit is gedaan om de pagina makkelijker in te delen en de illusie te creëeren dat de pagina, 
 een enorme pagina is. Een pagina die aan de hand van de navigatiebalk speels beweegt om naar het deel dat de gebruiker wil bekijken te gaan.
 Om lettertypes te ondersteunen worden enkele  libraries (Google-fonts & Fontawesome) aangesproken.
