@@ -799,6 +799,7 @@ h3{
 
 
 
+
 /*^^^^^^^^^^^^^^^^^^ typography^^^^^^^^^^^^^^^^*/
 
 
@@ -848,6 +849,7 @@ text-align: center;
 	border-radius: 25% 25% 25% 25%;
 	text-align: center;
 	min-width: 30vw;
+	font-family: 'Gabriela',serif;
 }
 /*^^^^^^^^^^^^^^^^^^ calendar ^^^^^^^^^^^^^^^^*/
 
