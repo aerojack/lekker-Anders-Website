@@ -1,27 +1,22 @@
 # lekker anders
 
-Deze site is ontwikkeld voor een startup van een nieuwe onderneming, de site is op gebouwd in een grid.
-Om grid te ondersteunen  in zijn soepelheid bij het glijden van de ene pagina onderdeel naar de andere zijn er een aantal
-(jqeury)libraries aangesproken. Dit is gedaan om de pagina makkelijker in te delen en de illusie te creeeren dat de pagina, 
-een enorme pagina is die je aande hand van de navigatiebar over het hele pagina slingerd naar het gewenste deel die de
-gebruiker wil bekijken.
-Om de lettertype ook na wens te ondersteunen zijn hier ook enkele (google fonts & fontawesome)libraries voor aangesproken.
+Deze website is ontwikkeld als een startup voor een nieuwe onderneming. De website is op gebouwd in een grid.
+Om de grid te ondersteunen bij het soepel glijden van het ene pagina onderdeel naar het andere worden een aantal
+libraries (Jquery) aangesproken. Dit is gedaan om de pagina makkelijker in te delen en de illusie te creëeren dat de pagina, 
+een enorme pagina is. Een pagina die aan de hand van de navigatiebar over het hele pagina slingert om naar het gewenste deel dat de gebruiker wil bekijken te gaan.
+Om lettertypes naar wens te ondersteunen zijn enkele (Google-fonts & Fontawesome) libraries aangesproken.
 
 
 ---
 ### Navigatie-bar
 
-deze bevat aan de linker kant een navigatie bar. De icons zijn wit wanneer hier niks mee gedaan wordt. Zodra de muis-pointer 
-erover word gehouden veranderd de kleur naar pastel groen en de icon veranderd in flessen groen als de gebruiker zich bevind
-op de pagina die de icon aangeeft. Deze navigatie-bar zou zich altijd aan de linker kant bevinden en de icons van boven naar 
-beneden opgesteld. Het heeft een kleine stukje javascript met de naam : navbar highlight.js hier in staat, zoals de titel van
-de file al wel aangeeft een highlight instelling.
+De website bevat aan de linkerkant een navigatie-bar. De iconen hierin zijn wit wanneer ze in ongebruikte zijn. Zodra de muis-pointer erover wordt gehouden veranderd de kleur naar pastelgroen en de kleur van het icoon veranderd in flessengroen wanneer de gebruiker zich bevindt op de desbetreffende pagina. Deze navigatie-bar bevindt zich altijd aan de linkerkant op de webpagina. De iconen zijn van boven naar beneden opgesteld. Er is een kleine stukje Javascript met de naam: navbar highlight.js. Hierin staat, zoals de titel al wel aangeeft een highlight instelling.
 
 ---
 ### Social media buttons
 
-Geplaatst aan de rechterzijde en boven in zijn de social media buttons te vinden, met een icon opstelling van boven na 
-beneden. Afhankelijk welke vormen van social media er voor de ondernemening worden gebruikt kunnen de buttons hier worden
+Buttons voor Social Media zijn geplaatst bovenin aan de rechterzijde van de webpagina. Eveneens zijn deze van boven naar 
+beneden opgesteld. Afhankelijk welke vormen van social media er voor de ondernemening worden gebruikt kunnen de buttons hier worden
 gekoppeld aan social media pagina's. Deze buttons zullen op elke pagina 
 
 ---
