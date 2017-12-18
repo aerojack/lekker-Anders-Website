@@ -17,163 +17,163 @@ $(document).ready(function(){
       }
 
       var mydate = new Date();
-      var maand = mydate.getWeek();
+      var weeknumer = mydate.getWeek();
 
 
-      if (maand==1){
+      if (weeknumer==1){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==2){
+      if (weeknumer==2){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==3){
+      if (weeknumer==3){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==4){
+      if (weeknumer==4){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==5){
+      if (weeknumer==5){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==6){
+      if (weeknumer==6){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==7){
+      if (weeknumer==7){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==8){
+      if (weeknumer==8){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==9){
+      if (weeknumer==9){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==10){
+      if (weeknumer==10){
         document.getElementById("object").src = "images/sublogo black.png";
       }
-      if (maand==11) {
+      if (weeknumer==11) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==12) {
+      if (weeknumer==12) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==13) {
+      if (weeknumer==13) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==14) {
+      if (weeknumer==14) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==15) {
+      if (weeknumer==15) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==16) {
+      if (weeknumer==16) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==17) {
+      if (weeknumer==17) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==18) {
+      if (weeknumer==18) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==19) {
+      if (weeknumer==19) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==20) {
+      if (weeknumer==20) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==21) {
+      if (weeknumer==21) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==22) {
+      if (weeknumer==22) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==23) {
+      if (weeknumer==23) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==24) {
+      if (weeknumer==24) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==25) {
+      if (weeknumer==25) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==26) {
+      if (weeknumer==26) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==27) {
+      if (weeknumer==27) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==28) {
+      if (weeknumer==28) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==29) {
+      if (weeknumer==29) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==30) {
+      if (weeknumer==30) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==31) {
+      if (weeknumer==31) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==32) {
+      if (weeknumer==32) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==33) {
+      if (weeknumer==33) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==34) {
+      if (weeknumer==34) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==35) {
+      if (weeknumer==35) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==36) {
+      if (weeknumer==36) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==37) {
+      if (weeknumer==37) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==38) {
+      if (weeknumer==38) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==39) {
+      if (weeknumer==39) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==40) {
+      if (weeknumer==40) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==41) {
+      if (weeknumer==41) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==42) {
+      if (weeknumer==42) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==43) {
+      if (weeknumer==43) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==44) {
+      if (weeknumer==44) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==45) {
+      if (weeknumer==45) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==46) {
+      if (weeknumer==46) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==47) {
+      if (weeknumer==47) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==48) {
+      if (weeknumer==48) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==49) {
+      if (weeknumer==49) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==50) {
+      if (weeknumer==50) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==51) {
+      if (weeknumer==51) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
-      if (maand==52) {
+      if (weeknumer==52) {
         document.getElementById("object").src = "images/sublogo cg.png";
       }
 
