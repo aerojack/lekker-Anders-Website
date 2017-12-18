@@ -920,6 +920,8 @@ text-align: center;
 .popup1
 {
   position:fixed;
+	width: auto;
+	height: auto;
   left:50vw;
   margin-left: 40%;
   top:50vh;
@@ -1159,7 +1161,6 @@ text-align: center;
 }
 
 /*^^^^^^^^^^^^^^^^^^ agenda calendar ^^^^^^^^^^^^^^^^*/
-
 /* -------------------------- class om url in koksplaatjes te verbergen ----------------------------- */
 a.hide {
 opacity: 0;
