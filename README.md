@@ -27,7 +27,7 @@ De animatie heeft een eigen javascript file genaamd sublogo.js. In dit bestand s
 - Translate - (Regelt de afstand die het sublogo aflegt. Dit gebeurt in percentages zodat op ieder scherm de verhouding responsive blijft.) 
 - Degrees - (Regelt het aantal rotaties dat het sublogo maakt om de afstand naar de rechterkant van het logo af te leggen.)
 
-Momenteel is het sublogo aanpasbaar om per week extra aandacht voor de kok van dienst te genereren. Mogelijke passen we het sub-logo ook toe op de overige pagina's en wordt het sub-logo tevens gelinkt aan de agenda.
+Momenteel is het sublogo aanpasbaar om per week extra aandacht voor de kok van dienst te genereren. Mogelijk passen we het sublogo ook toe op de overige pagina's. Het is mogelijk, in de toekomst, om het sublogo te koppelen aan de agenda.
 
 ---
 ### Fotocarousel (Slideshow)
@@ -59,9 +59,7 @@ Op deze pagina vind je een lokkertje voor de onderdelen barista, de high tea en 
 ---
 ### Koks
 
-Alle koks en cateraars die gaan koken in het restaurant van deze ondernemer staan op deze pagina zodat alle geintreseerden
-kunnen kijken wat ongeveer het aanbod is. Het overzichtje is grafisch gemaakt door de foto's van de kok's random over de
-pagina te verspreiden. Een korte samenvatting over de desbetreffende persoon komt met een pop-up omhoog op het moment dat je er met de cursor van de muis overheen bewogen wordt. De foto's met potretten of logo's van de koks of cateraars zijn klikbaar zodat je door gestuurd word naar de webpagina of facebook van de persoon of het bedrijf in kwestie.
+Alle koks en cateraars die gaan koken in het restaurant van deze ondernemer staan op deze pagina zodat alle geïnteresseerde bezoekers kunnen kijken wat het aanbod van desbetreffende ondernemer/kok is. Het overzichtje is grafisch gemaakt door de foto's van de kok's over de pagina te verspreiden. Een korte samenvatting over de desbetreffende persoon komt met een pop-up omhoog op het moment dat je er met de cursor van de muis overheen bewogen wordt. De foto's met potretten of logo's van de koks of cateraars zijn klikbaar zodat je door gestuurd word naar de webpagina of facebook van de persoon of het bedrijf in kwestie.
 
 ---
 ### Ons aanbod
@@ -75,7 +73,7 @@ Over ons is een informatieve pagina waar men het verhaal achter de onderneming k
 
 ---
 ### Reserveren en Contact
-Om reserveren en contact te gebruiken heeft deze site een database nodig. 
+Om te reserveren en het contactformulier te gebruiken heeft deze site een database nodig. 
 In Mysql staat de database van de site, deze zal moeten worden geïmporteerd.
 
 ---
