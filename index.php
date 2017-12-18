@@ -294,8 +294,16 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 
 </div>
 	<div id="agenda" class="agenda">
-    <div id="calendaragenda" class="calendaragenda">
-    </div>
+
+<div id="agendagoogle" class="agendagoogle">
+    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23000000&amp;src=ifcjvpacf8gvcge89iufv4cegk%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=Europe%2FBrussels" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+
+
+<!-- facebook api -->
+    <!-- <div id="calendaragenda" class="calendaragenda">
+
+    </div> -->
 
   </div>
 	<!-------------- third row -------------->
