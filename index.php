@@ -282,7 +282,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
           <p id="calendar-month-year"></p>
       </div>
 
-      <div class="event inset1" id="event"></div><!-- in Sublogo.js can change the text--> 
+      <div class="event inset1" id="event"></div><!-- in Sublogo.js can change the text-->
     </div>
 
 	</div>
@@ -527,7 +527,9 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 			</div>
 
 
-<div id="sectioncontact3" class="sectioncontact3"></div>
+<div id="sectioncontact3" class="sectioncontact3">
+<img src="images/logo.png" alt="Logo" style="width: 250px; height: auto; max-width: 70%; float: center;">
+</div>
 
 
 	</div>
