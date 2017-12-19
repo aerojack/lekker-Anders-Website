@@ -51,11 +51,7 @@ https://graph.facebook.com/160487437900700/events?access_token=1633445220011171|
 ### Home-page (Startpagina)
 
 Wanneer je de website bezoekt start je  allereerst op de Home-page. Dit gebeurt door middel van een heel klein stukje JavaScript met de naam first page.js. De fotocarousel bevindt zich in het midden, de navigatie-balk aan de linkerkant en de Social Media knoppen aan de rechterkant van de webpagina. De evenementenkalender bevindt zich rechtsonder in de Home-page.
-<<<<<<< HEAD
 De sublogo-animatie speelt direct en eenmalig.
-=======
-De sublogo animatie speelt direct en eenmalig.
->>>>>>> rienk
 
 ---
 ### Barista
