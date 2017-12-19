@@ -217,8 +217,8 @@ $(document).ready(function(){
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==50) {
-        document.getElementById("object").src = "images/sublogo red.png";
-        document.getElementById("event").innerHTML = "Lekker Anders met<br> Tavel 16 <br> Vandaag pizza bakken!  ";
+        document.getElementById("object").src = "images/sublogo blue.png";
+        document.getElementById("event").innerHTML = "Lekker Anders met<br> Tafel 16 <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==51) {
         document.getElementById("object").src = "images/sublogo cg.png";
