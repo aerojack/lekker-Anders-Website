@@ -259,7 +259,7 @@ text-align: center;
 	text-align: center;
 	background-color: RGB(171,241,95);
 	border-radius: 25%;
-	height:67vh;
+	height:72vh;
 
 
 	-webkit-box-shadow: inset 13px -13px 26px 0px rgba(0,0,0,0.75);
@@ -304,7 +304,7 @@ text-align: center;
 }
 
 .section6b img{
-  margin-top: 10%;
+  /*margin-top: 10%;*/
 	padding-top: 1%;
 	padding-right: 1%;
 	border-radius: 25%;
@@ -445,11 +445,11 @@ text-align: center;
 
 .section5onsaanbod{
 	grid-area:section5onsaanbod;
-	padding-top: 5%;
+	/*padding-top: 5%;*/
 	padding-left: 1%;
 	padding-right:1%;
 	background-color: #abf15f;
-	height: 70vh;
+	height: 73vh;
 	border-top-left-radius: 25%;
 	border-bottom-left-radius: 25%;
 	text-align: center;
@@ -479,9 +479,9 @@ text-align: center;
 	text-align: center;
 	padding-left: 1%;
 	padding-right:1%;
-	padding-top:5%;
+	/*padding-top:5%;*/
 	background-color: #abf15f;
-	height: 70vh;
+	height: 73vh;
 	border-top-right-radius: 25%;
 	border-bottom-right-radius: 25%;
 	text-align: center;
@@ -542,20 +542,20 @@ text-align: center;
 
 .section5overons{
 	grid-area:section5overons;
-	padding-top: 5%;
+	/*padding-top: 5%;*/
 	padding-left: 1%;
 	padding-right: 1%;
 	text-align: center;
 	background-color: RGB(171,241,95);
 	border-radius: 25%;
-	height:65vh;
+	height:73vh;
 	border: 10px;
 
 }
 .h3over {
-	margin-top: -2%;
+	margin-top: -4%;
 padding-top: 5%;
-padding-bottom: 5%;
+padding-bottom: 1%;
 
 }
 p{
@@ -569,7 +569,7 @@ padding-bottom: 2%;
 	grid-area:section6overons;
 	border-radius: 25%;
 	margin-left: 2%;
-	margin-top: 10%;
+	/*margin-top: 10%;*/
 	margin-bottom: 40%;
 }
 .section6overons img{
@@ -583,7 +583,7 @@ margin: 2%;
 }
 
 .bank{
-  margin-top: 1%;
+  /*margin-top: 1%;*/
 	border-radius: 25%;
 	padding-top: 1%;
 	padding-right: 1%;
@@ -608,6 +608,7 @@ margin: 2%;
 	grid-area:koks;
 	/*overflow-y:scroll;
 	overflow-x:hidden;*/
+	margin-top: -5%;
 
 
 }
@@ -631,9 +632,9 @@ margin: 2%;
 .grid-contact {
 	display: grid;
 	grid-template-columns: 50vw 50vw;
-	grid-template-rows: 100vh 100vh;
+	grid-template-rows: 25vh 75vh;
 	grid-template-areas:
-
+	"sectioncontact3 sectioncontact3"
 	"sectioncontact1 sectioncontact2"
 
 
@@ -650,6 +651,9 @@ margin: 2%;
 	grid-area:sectioncontact2;
 	padding-left: 5%;
 	padding-right:10%;
+}
+.sectioncontact3{
+	grid-area:sectioncontact3;
 }
 
 
@@ -695,8 +699,8 @@ input[type=submit]:hover {
 	 background:#abf15f;
 	padding-left: 20%;
 	padding-right: 20%;
-	margin-top: 5%;
-	min-height: 90vh;
+	/* margin-top: 5%; */
+	 min-height: 71vh;
 
 }
 
@@ -705,7 +709,7 @@ input[type=submit]:hover {
     border-radius: 10px;
 	margin-right: -25%;
 	margin-left: -25%;
-	min-height: 80vh;
+	/* min-height: 80vh; */
 }
 
 
@@ -1155,4 +1159,16 @@ text-align: center;
 	margin-left: 5%;
 }
 
+.agendagoogle{
+	margin-left: 20%;
+	margin-top: 2%;
+}
+
 /*^^^^^^^^^^^^^^^^^^ agenda calendar ^^^^^^^^^^^^^^^^*/
+
+/* -------------------------- class om url in koksplaatjes te verbergen ----------------------------- */
+a.hide {
+opacity: 0;
+font-size: 166px;
+}
+/* ^^^^^^^^^^^^^^^^^^ einde sectie class om url in koksplaatjes te verbergen ^^^^^^^^^^^^ */
