@@ -193,39 +193,39 @@ $(document).ready(function(){
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==44) {
-        document.getElementById("object").src = "images/sublogo cg.png";
+        document.getElementById("object").src = "images/sublogo blue.png";
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==45) {
-        document.getElementById("object").src = "images/sublogo cg.png";
+        document.getElementById("object").src = "images/sublogo flessengroen.png";
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==46) {
-        document.getElementById("object").src = "images/sublogo cg.png";
+        document.getElementById("object").src = "images/sublogo geel.png";
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==47) {
-        document.getElementById("object").src = "images/sublogo cg.png";
+        document.getElementById("object").src = "images/sublogo limegreen.png";
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==48) {
-        document.getElementById("object").src = "images/sublogo cg.png";
+        document.getElementById("object").src = "images/sublogo pastelgreen.png";
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==49) {
-        document.getElementById("object").src = "images/sublogo cg.png";
+        document.getElementById("object").src = "images/sublogo purple.png";
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==50) {
-        document.getElementById("object").src = "images/sublogo cg.png";
-        document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
+        document.getElementById("object").src = "images/sublogo blue.png";
+        document.getElementById("event").innerHTML = "Lekker Anders met<br> Tafel 16 <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==51) {
         document.getElementById("object").src = "images/sublogo cg.png";
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
       if (weeknumer==52) {
-        document.getElementById("object").src = "images/sublogo cg.png";
+        document.getElementById("object").src = "images/sublogo-lilac.png";
         document.getElementById("event").innerHTML = "Lekker Anders met<br> CodeGorilla <br> Vandaag pizza bakken!  ";
       }
 
