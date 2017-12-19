@@ -227,7 +227,8 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 
 
       <div id="axis" class="one">
-        <img class="object van" id="object" src="images/sublogo cg.png" />
+        <img class="object van" id="object"  /> <!-- sublogo.js-->
+
 
     </div>
 
@@ -281,21 +282,23 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
           <p id="calendar-month-year"></p>
       </div>
 
-      <div class="event inset1" id="event">
-        <?php
-
-      //    echo ($result);
-         ?>
-
-      </div>
+      <div class="event inset1" id="event"></div><!-- in Sublogo.js can change the text--> 
     </div>
 
 	</div>
 
 </div>
 	<div id="agenda" class="agenda">
-    <div id="calendaragenda" class="calendaragenda">
-    </div>
+
+<div id="agendagoogle" class="agendagoogle">
+    <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;height=600&amp;wkst=2&amp;bgcolor=%23000000&amp;src=ifcjvpacf8gvcge89iufv4cegk%40group.calendar.google.com&amp;color=%2328754E&amp;ctz=Europe%2FBrussels" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+</div>
+
+
+<!-- facebook api -->
+    <!-- <div id="calendaragenda" class="calendaragenda">
+
+    </div> -->
 
   </div>
 	<!-------------- third row -------------->
@@ -544,6 +547,7 @@ Verwacht dus geen asperges in de herfst of aardbeien in de winter, het seizoen k
 <script type="text/javascript" src="carousel.js"></script>
 <script type="text/javascript" src="navbar highlight.js"></script>
 <script type="text/javascript" src="facebookeventsjavascript.js"></script>
+
 
 
 </body>

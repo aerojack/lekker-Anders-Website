@@ -608,6 +608,7 @@ margin: 2%;
 	grid-area:koks;
 	/*overflow-y:scroll;
 	overflow-x:hidden;*/
+	margin-top: -5%;
 
 
 }
@@ -798,6 +799,7 @@ h3{
 
 
 
+
 /*^^^^^^^^^^^^^^^^^^ typography^^^^^^^^^^^^^^^^*/
 
 
@@ -847,6 +849,7 @@ text-align: center;
 	border-radius: 25% 25% 25% 25%;
 	text-align: center;
 	min-width: 30vw;
+	font-family: 'Gabriela',serif;
 }
 /*^^^^^^^^^^^^^^^^^^ calendar ^^^^^^^^^^^^^^^^*/
 
@@ -920,8 +923,6 @@ text-align: center;
 .popup1
 {
   position:fixed;
-	width: auto;
-	height: auto;
   left:50vw;
   margin-left: 40%;
   top:50vh;
@@ -1160,7 +1161,13 @@ text-align: center;
 	margin-left: 5%;
 }
 
+.agendagoogle{
+	margin-left: 20%;
+	margin-top: 2%;
+}
+
 /*^^^^^^^^^^^^^^^^^^ agenda calendar ^^^^^^^^^^^^^^^^*/
+
 /* -------------------------- class om url in koksplaatjes te verbergen ----------------------------- */
 a.hide {
 opacity: 0;
