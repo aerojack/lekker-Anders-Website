@@ -48,6 +48,7 @@
        /*  position:center; */
         /*makes a playful border around the image in the slideshow*/
         padding-top: 1%;
+				margin-top:-1%;
         padding-right: 1%;
       /*   border-image-slice: 15 27 15 27; */
         border-image-width: 15% 15p% 15p% 15%;
