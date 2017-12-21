@@ -1,8 +1,10 @@
 # Lekker Anders
 
+[www.lekkeranders.jorisgengler.nl](https://lekkeranders.jorisgengler.nl)
+
 Deze website is ontwikkeld als een startup-website voor een nieuwe onderneming. De website is op gebouwd in een raster (een zogenaamd grid).
 Om de grid te ondersteunen bij het soepel bewegen van het ene pagina-onderdeel naar het andere worden een aantal
-libraries (Jquery) aangesproken. Dit is gedaan om de pagina makkelijker in te delen en de illusie te creëeren dat de pagina, 
+libraries (Jquery) aangesproken. Dit is gedaan om de pagina makkelijker in te delen en de illusie te creëeren dat de pagina,
 een enorme pagina is. Een pagina die aan de hand van de navigatiebalk speels beweegt om naar het deel dat de gebruiker wil bekijken te gaan.
 Om lettertypes te ondersteunen worden enkele  libraries (Google-fonts & Fontawesome) aangesproken.
 
@@ -15,19 +17,22 @@ De website bevat aan de linkerkant een navigatiebalk. De iconen hierin zijn wit 
 ---
 ### Social Media buttons
 
-Knoppen voor Social Media zijn bovenin aan de rechterzijde van de webpagina geplaatst. Deze zijn eveneens van boven naar 
-beneden neergezet. Welke vormen van social media er door de ondernemening ook worden gebruikt, hier kan worden gelinkt naar Social Media pagina's. De knoppen zullen op elke pagina zichtbaar zijn. 
+Knoppen voor Social Media zijn bovenin aan de rechterzijde van de webpagina geplaatst. Deze zijn eveneens van boven naar
+beneden neergezet. Welke vormen van social media er door de ondernemening ook worden gebruikt, hier kan worden gelinkt naar Social Media pagina's. De knoppen zullen op elke pagina zichtbaar zijn.
 
 ---
 ### Sublogo animatie
 
-Gekoppeld aan het logo op de homepage (en mogelijke meerdere pagina's) is een geanimeerd sublogo. Deze start links op de 
+Gekoppeld aan het logo op de homepage (en mogelijke meerdere pagina's) is een geanimeerd sublogo. Deze start links op de
 pagina (ter hoogte van het tweede icon van de navigatiebalk) en beweegt zich horizontaal en draaiend naar de rechterkant van het bedrijfslogo en komt daar tot stilstand.
 
 De animatie heeft een eigen javascript file genaamd sublogo.js. In dit bestand staat onder andere:
 
-- Translate - (Regelt de afstand die het sublogo aflegt. Dit gebeurt in percentages zodat op ieder scherm de verhouding responsive blijft.) 
-- Degrees - (Regelt het aantal rotaties dat het sublogo maakt om de afstand naar de rechterkant van het logo af te leggen.)
+
+- Translate - (Regelt de afstand die het sublogo aflegt. Dit gebeurt in percentages zodat op ieder scherm de verhouding responsive blijft.)
+
+- Translate - (Regelt de afstand die het sublogo aflegt. Dit gebeurt in percentages zodat op ieder scherm de verhouding responsive blijft.)
+
 
 Momenteel is het sublogo aanpasbaar om per week extra aandacht voor de kok van dienst te genereren. Mogelijk passen we het sublogo ook toe op de overige pagina's. Het is mogelijk, in de toekomst, om het sublogo te koppelen aan de agenda.
 
@@ -75,8 +80,10 @@ Over ons is een informatieve pagina waar men het verhaal achter de onderneming k
 
 ---
 ### Reserveren en Contact
-Om te reserveren en het contactformulier te gebruiken heeft deze site een database nodig. 
+
+Om te reserveren en het contactformulier te gebruiken heeft deze site een database nodig.
 In MySQL staat de database van de site, deze zal moeten worden geïmporteerd.
+
 
 ---
 ### Agenda
