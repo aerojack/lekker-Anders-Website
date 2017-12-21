@@ -1,6 +1,6 @@
 # Lekker Anders
 
-[www.lekkeranders.nl](https://lekkeranders.jorisgengler.nl)
+[www.lekkeranders.jorisgengler.nl](https://lekkeranders.jorisgengler.nl)
 
 Deze website is ontwikkeld als een startup-website voor een nieuwe onderneming. De website is op gebouwd in een raster (een zogenaamd grid).
 Om de grid te ondersteunen bij het soepel bewegen van het ene pagina-onderdeel naar het andere worden een aantal
